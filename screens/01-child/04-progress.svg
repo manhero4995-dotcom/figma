@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+<title>My progress</title>
+<desc>Skill bars, weekly streak and achievements.</desc>
+<rect id="Background" x="0" y="0" width="390" height="844" fill="#FFF8EE"/>
+<g id="Status-bar" data-name="Status bar">
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="22" y="23.6">9:41</tspan></text>
+<rect x="302.4" y="24.3" width="1.8" height="3" rx="1" fill="#241A1F"/>
+<rect x="305.1" y="22.5" width="1.8" height="4.8" rx="1" fill="#241A1F"/>
+<rect x="307.8" y="20.7" width="1.8" height="6.6" rx="1" fill="#241A1F"/>
+<rect x="310.5" y="18.9" width="1.8" height="8.4" rx="1" fill="#241A1F"/>
+<path d="M 2.88 7.14 C 3.72 5.35 5.52 4.20 7.50 4.20 C 9.48 4.20 11.28 5.35 12.12 7.14" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.80 7.41 C 5.41 6.53 6.42 6.00 7.50 6.00 C 8.58 6.00 9.59 6.53 10.20 7.41" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329.5" cy="26.4" r="0.53" fill="#241A1F"/>
+<rect x="347.8" y="19.4" width="12.96" height="7.2" rx="0.9" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<rect x="348.88" y="20.48" width="7.56" height="5.04" rx="0.36" fill="#241A1F"/>
+<rect x="361.12" y="21.56" width="1.08" height="2.88" rx="0.36" fill="#241A1F"/>
+</g>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="20" y="75.2">My progress</tspan></text>
+<g id="Period-switch" data-name="Period switch">
+<rect x="20" y="100" width="350" height="42" rx="21" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<rect x="24" y="104" width="170" height="34" rx="17" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="109" y="120.8">This week</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="280" y="120.8">This month</tspan></text>
+</g>
+<g id="Summary-card" data-name="Summary card">
+<rect x="20" y="158" width="350" height="112" rx="20" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#6B7280" text-anchor="start"><tspan x="40" y="184.8">This week</tspan></text>
+<text font-family="Inter, sans-serif" font-size="22" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="40" y="211.6">8 of 10 stars</tspan></text>
+<polygon points="323,178.88 325.68,185.32 332.62,185.87 327.33,190.41 328.95,197.19 323,193.55 317.05,197.19 318.67,190.41 313.38,185.87 320.32,185.32" fill="#FEB612"/>
+<rect x="40" y="232" width="250" height="8" rx="4" fill="#E7EBF2"/>
+<rect x="40" y="232" width="200" height="8" rx="4" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF8310" text-anchor="end"><tspan x="350" y="234.8">80%</tspan></text>
+</g>
+<g id="Skills" data-name="Skills">
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="20" y="306.8">Skills</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="370" y="304.8">This week</tspan></text>
+<rect x="20" y="320" width="350" height="196" rx="20" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="40" y="349.6">Logic</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF8310" text-anchor="end"><tspan x="350" y="348.8">78%</tspan></text>
+<rect x="40" y="360" width="310" height="8" rx="4" fill="#E7EBF2"/>
+<rect x="40" y="360" width="241.8" height="8" rx="4" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="40" y="391.6">Memory</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="350" y="390.8">64%</tspan></text>
+<rect x="40" y="402" width="310" height="8" rx="4" fill="#E7EBF2"/>
+<rect x="40" y="402" width="198.4" height="8" rx="4" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="40" y="433.6">Focus</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#2DC197" text-anchor="end"><tspan x="350" y="432.8">82%</tspan></text>
+<rect x="40" y="444" width="310" height="8" rx="4" fill="#E7EBF2"/>
+<rect x="40" y="444" width="254.2" height="8" rx="4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="40" y="475.6">Creativity</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#8A38F5" text-anchor="end"><tspan x="350" y="474.8">70%</tspan></text>
+<rect x="40" y="486" width="310" height="8" rx="4" fill="#E7EBF2"/>
+<rect x="40" y="486" width="217" height="8" rx="4" fill="#8A38F5"/>
+</g>
+<g id="Achievements" data-name="Achievements">
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="20" y="552.8">Achievements</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="370" y="550.8">See all</tspan></text>
+</g>
+<g id="Achievement-1" data-name="Achievement 1">
+<rect x="20" y="564" width="106" height="92" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="73" cy="590" r="22" fill="#FFF3E2"/>
+<polygon points="73,580.8 75.43,586.65 81.75,587.16 76.94,591.28 78.41,597.44 73,594.14 67.59,597.44 69.06,591.28 64.25,587.16 70.57,586.65" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="73" y="626.4">First quiz</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="73" y="643.2">2 Nov</tspan></text>
+</g>
+<g id="Achievement-2" data-name="Achievement 2">
+<rect x="142" y="564" width="106" height="92" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="195" cy="590" r="22" fill="#E6F8F2"/>
+<polygon points="195,580.8 197.43,586.65 203.75,587.16 198.94,591.28 200.41,597.44 195,594.14 189.59,597.44 191.06,591.28 186.25,587.16 192.57,586.65" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="195" y="626.4">3-day streak</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="195" y="643.2">8 Nov</tspan></text>
+</g>
+<g id="Achievement-3" data-name="Achievement 3">
+<rect x="264" y="564" width="106" height="92" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="317" cy="590" r="22" fill="#F3EBFF"/>
+<polygon points="317,580.8 319.43,586.65 325.75,587.16 320.94,591.28 322.41,597.44 317,594.14 311.59,597.44 313.06,591.28 308.25,587.16 314.57,586.65" fill="#8A38F5"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="317" y="626.4">Top 10</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="317" y="643.2">10 Nov</tspan></text>
+</g>
+<g id="Next-step" data-name="Next step">
+<rect x="20" y="676" width="350" height="80" rx="18" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#FF8310" text-anchor="start" letter-spacing="1.2"><tspan x="38" y="697.2">NEXT STEP</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="38" y="718.4">Try Memory Match to boost focus</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="38" y="738">5 minutes · +2 stars</tspan></text>
+<circle cx="336" cy="716" r="18" fill="#FF8310"/>
+<path d="M 3.24 9.00 L 14.40 9.00" transform="translate(327 707)" fill="none" stroke="#FFFFFF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.44 5.04 L 14.40 9.00 L 10.44 12.96" transform="translate(327 707)" fill="none" stroke="#FFFFFF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Bottom-navigation" data-name="Bottom navigation">
+<rect x="0" y="772" width="390" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="772" width="390" height="1" rx="0" fill="#E7EBF2"/>
+<path d="M 3.52 10.34 L 11.00 3.96 L 18.48 10.34 L 18.48 18.04 L 13.20 18.04 L 13.20 13.20 L 8.80 13.20 L 8.80 18.04 L 3.52 18.04 Z" transform="translate(38 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="49" y="824">Home</tspan></text>
+<path d="M 3.52 7.92 Q 2.20 17.16 5.72 17.16 L 7.92 14.08 L 14.08 14.08 L 16.28 17.16 Q 19.80 17.16 18.48 7.92 L 14.52 5.72 L 7.48 5.72 Z" transform="translate(135 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.04 9.90 L 9.68 9.90 M 8.36 8.58 L 8.36 11.22" transform="translate(135 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="149.52" cy="795.24" r="0.77" fill="#6B7280"/>
+<circle cx="151.28" cy="797" r="0.77" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="146" y="824">Games</tspan></text>
+<rect x="215" y="780" width="56" height="32" rx="16" fill="#FFF3E2"/>
+<rect x="236.4" y="797" width="2.86" height="6.6" rx="2" fill="#FF8310"/>
+<rect x="241.46" y="793.48" width="2.86" height="10.12" rx="2" fill="#FF8310"/>
+<rect x="246.52" y="789.96" width="2.86" height="13.64" rx="2" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="243" y="824">Report</tspan></text>
+<circle cx="340" cy="793.7" r="3.52" fill="none" stroke="#6B7280" stroke-width="1.98"/>
+<path d="M 4.40 18.04 Q 4.84 12.76 11.00 12.76 Q 17.16 12.76 17.60 18.04" transform="translate(329 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="340" y="824">Me</tspan></text>
+</g>
+</svg>

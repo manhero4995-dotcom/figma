@@ -1,0 +1,16 @@
+{
+  "name": "SPARK UI/UX Builder",
+  "id": "1428570000000000001",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ],
+    "reasoning": "Builds local design frames only; no network calls."
+  }
+}

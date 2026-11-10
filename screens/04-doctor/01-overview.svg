@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<title>Doctor overview</title>
+<desc>Assignments, review queue, schedule and recent reports.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1024" fill="#F5F8FD"/>
+<g id="Sidebar" data-name="Sidebar">
+<rect x="0" y="0" width="248" height="1024" rx="0" fill="#FFFFFF"/>
+<circle cx="44" cy="44" r="20" fill="#286CB5"/>
+<polygon points="45.2,35.6 38.4,45.2 43.2,45.2 41.2,52.4 49.6,42 44.4,42" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="74" y="39.4">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="1.2"><tspan x="74" y="56.2">CLINIC</tspan></text>
+<rect x="20" y="92" width="208" height="1" rx="0" fill="#E7EBF2"/>
+<rect x="14" y="104" width="220" height="44" rx="12" fill="#F1F6FE"/>
+<rect x="14" y="116" width="3" height="20" rx="1.5" fill="#286CB5"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(32 112)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="64" y="120.4">Overview</tspan></text>
+<circle cx="39.6" cy="168.8" r="2.6" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 2.40 16.00 Q 2.80 11.60 7.60 11.60 Q 12.40 11.60 12.80 16.00" transform="translate(32 162)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.6" cy="168" r="2.2" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 12.40 11.20 Q 18.00 11.60 18.00 16.00" transform="translate(32 162)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="170.4">Children</tspan></text>
+<path d="M 3.20 4.00 L 16.80 4.00 L 16.80 16.40 L 10.00 15.20 L 3.20 16.40 Z" transform="translate(32 212)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.00 4.00 L 10.00 15.20" transform="translate(32 212)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="220.4">Assessments</tspan></text>
+<rect x="36" y="272" width="2.6" height="6" rx="2" fill="#6B7280"/>
+<rect x="40.6" y="268.8" width="2.6" height="9.2" rx="2" fill="#6B7280"/>
+<rect x="45.2" y="265.6" width="2.6" height="12.4" rx="2" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="270.4">Reports</tspan></text>
+<rect x="34.8" y="317.2" width="14.4" height="9.6" rx="1.2" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 2.80 6.00 L 10.00 11.20 L 17.20 6.00" transform="translate(32 312)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="320.4">Messages</tspan></text>
+<rect x="16" y="914" width="216" height="86" rx="16" fill="#F6F8FC"/>
+<circle cx="46" cy="946" r="18" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="46" y="945">DH</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="74" y="941.6">Dr. Hana</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="74" y="958">Clinic</tspan></text>
+<path d="M 3.52 2.56 L 9.28 2.56 L 9.28 13.44 L 3.52 13.44 Z" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.36 8.00 L 13.76 8.00" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 11.20 5.76 L 13.76 8.00 L 11.20 10.24" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Top-bar" data-name="Top bar">
+<rect x="248" y="0" width="1192" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="248" y="71" width="1192" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="288" y="36.6">Workspace / Overview</tspan></text>
+<rect x="964" y="16" width="290" height="40" rx="12" fill="#F4F7FB"/>
+<circle cx="987.92" cy="34.92" r="4.32" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 11.16 11.16 L 14.76 14.76" transform="translate(980 27)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="1008" y="37.6">Search children, reports…</tspan></text>
+<rect x="1272" y="16" width="40" height="40" rx="20" fill="#F4F7FB"/>
+<path d="M 5.04 11.88 L 5.04 7.92 M 5.04 7.92 C 5.04 5.73 6.81 3.96 9.00 3.96 C 11.19 3.96 12.96 5.73 12.96 7.92 L 12.96 11.88 Z" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 11.88 L 14.40 11.88" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1292" cy="41.04" r="0.72" fill="#241A1F"/>
+<circle cx="1330" cy="36" r="20" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="1330" y="36.8">DH</tspan></text>
+</g>
+<g id="Page-header" data-name="Page header">
+<text font-family="Inter, sans-serif" font-size="28" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="288" y="118.4">Good morning, Dr. Hana</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="288" y="146.4">Five children are waiting for a review today.</tspan></text>
+</g>
+<g id="Date-pill" data-name="Date pill">
+<rect x="1180" y="104" width="220" height="40" rx="20" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<rect x="1198.88" y="118.32" width="12.24" height="10.8" rx="1.26" fill="none" stroke="#286CB5" stroke-width="1.62"/>
+<path d="M 2.88 7.56 L 15.12 7.56" transform="translate(1196 114)" fill="none" stroke="#286CB5" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.12 2.88 L 6.12 5.76 M 11.88 2.88 L 11.88 5.76" transform="translate(1196 114)" fill="none" stroke="#286CB5" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="1222" y="122.8">12 – 18 November</tspan></text>
+</g>
+<g id="Stat-1" data-name="Stat 1">
+<rect x="288" y="176" width="260" height="120" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="308" y="205.6">Assigned children</tspan></text>
+<text font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="242">24</tspan></text>
+<rect x="490" y="194" width="38" height="38" rx="12" fill="#F1F6FE"/>
+<circle cx="506.84" cy="210.12" r="2.34" fill="none" stroke="#286CB5" stroke-width="1.62"/>
+<path d="M 2.16 14.40 Q 2.52 10.44 6.84 10.44 Q 11.16 10.44 11.52 14.40" transform="translate(500 204)" fill="none" stroke="#286CB5" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="512.24" cy="209.4" r="1.98" fill="none" stroke="#286CB5" stroke-width="1.62"/>
+<path d="M 11.16 10.08 Q 16.20 10.44 16.20 14.40" transform="translate(500 204)" fill="none" stroke="#286CB5" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="262" width="93.6" height="22" rx="11" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="354.8" y="275">+3 this week</tspan></text>
+</g>
+<g id="Stat-2" data-name="Stat 2">
+<rect x="568" y="176" width="260" height="120" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="588" y="205.6">Assessments</tspan></text>
+<text font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="588" y="242">18</tspan></text>
+<rect x="770" y="194" width="38" height="38" rx="12" fill="#E6F8F2"/>
+<path d="M 2.88 3.60 L 15.12 3.60 L 15.12 14.76 L 9.00 13.68 L 2.88 14.76 Z" transform="translate(780 204)" fill="none" stroke="#2DC197" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 9.00 3.60 L 9.00 13.68" transform="translate(780 204)" fill="none" stroke="#2DC197" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="588" y="262" width="125.1" height="22" rx="11" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="650.55" y="275">+12% vs last week</tspan></text>
+</g>
+<g id="Stat-3" data-name="Stat 3">
+<rect x="848" y="176" width="260" height="120" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="868" y="205.6">Reports pending</tspan></text>
+<text font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="868" y="242">5</tspan></text>
+<rect x="1050" y="194" width="38" height="38" rx="12" fill="#FFF3E2"/>
+<rect x="1063.6" y="213" width="2.34" height="5.4" rx="2" fill="#FF8310"/>
+<rect x="1067.74" y="210.12" width="2.34" height="8.28" rx="2" fill="#FF8310"/>
+<rect x="1071.88" y="207.24" width="2.34" height="11.16" rx="2" fill="#FF8310"/>
+<rect x="868" y="262" width="74.7" height="22" rx="11" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="905.35" y="275">Due today</tspan></text>
+</g>
+<g id="Stat-4" data-name="Stat 4">
+<rect x="1128" y="176" width="260" height="120" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1148" y="205.6">Avg improvement</tspan></text>
+<text font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1148" y="242">+12%</tspan></text>
+<rect x="1330" y="194" width="38" height="38" rx="12" fill="#F1F6DC"/>
+<path d="M 2.70 12.60 L 7.20 8.10 L 10.44 10.80 L 15.30 5.04" transform="translate(1340 204)" fill="none" stroke="#7BA400" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12.24 5.04 L 15.30 5.04 L 15.30 8.10" transform="translate(1340 204)" fill="none" stroke="#7BA400" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1148" y="262" width="99.9" height="22" rx="11" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="1197.95" y="275">vs last month</tspan></text>
+</g>
+<g id="Review-table" data-name="Review table">
+<rect x="288" y="320" width="800" height="420" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="350">Children needing review</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="308" y="368">Flagged in the last 7 days</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="1070" y="348">View all</tspan></text>
+<rect x="308" y="384" width="760" height="34" rx="8" fill="#F6F8FC"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="324" y="400.6">Child</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="534" y="400.6">Last assessment</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="690" y="400.6">Score</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="770" y="400.6">Trend</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="866" y="400.6">Status</tspan></text>
+<circle cx="330" cy="450" r="15" fill="#FFDB99"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="330" y="449.4">S</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="354" y="448.8">Salma Ahmed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="354" y="465.2">Age 7</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="534" y="454.6">IQ · 12 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="690" y="454.4">112</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="770" y="453">+8</tspan></text>
+<rect x="866" y="440" width="80" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="906" y="453.8">Review</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1050 446)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="480" width="760" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="330" cy="510" r="15" fill="#D8E9FC"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="330" y="509.4">O</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="354" y="508.8">Omar Khaled</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="354" y="525.2">Age 8</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="534" y="514.6">IQ · 11 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="690" y="514.4">98</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#D8301E" text-anchor="start"><tspan x="770" y="513">-3</tspan></text>
+<rect x="866" y="500" width="80" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="906" y="513.8">Review</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1050 506)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="540" width="760" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="330" cy="570" r="15" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="330" y="569.4">L</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="354" y="568.8">Lina Youssef</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="354" y="585.2">Age 6</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="534" y="574.6">Game · 10 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="690" y="574.4">105</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="770" y="573">+5</tspan></text>
+<rect x="866" y="560" width="80" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="906" y="573.8">On track</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1050 566)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="600" width="760" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="330" cy="630" r="15" fill="#F3EBFF"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="330" y="629.4">A</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="354" y="628.8">Adam Nabil</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="354" y="645.2">Age 9</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="534" y="634.6">IQ · 9 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="690" y="634.4">87</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="770" y="633">+2</tspan></text>
+<rect x="866" y="620" width="80" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="906" y="633.8">Review</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1050 626)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="660" width="760" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="330" cy="690" r="15" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="330" y="689.4">N</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="354" y="688.8">Nour Hassan</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="354" y="705.2">Age 7</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="534" y="694.6">IQ · 8 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="690" y="694.4">119</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="770" y="693">+11</tspan></text>
+<rect x="866" y="680" width="80" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="906" y="693.8">On track</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1050 686)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Schedule" data-name="Schedule">
+<rect x="1108" y="320" width="292" height="220" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1128" y="349.2">Today</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#6B7280" text-anchor="end"><tspan x="1380" y="347.2">3 items</tspan></text>
+<rect x="1128" y="372" width="48" height="36" rx="8" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1152" y="387.8">09:30</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1188" y="382.4">Salma Ahmed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1188" y="399.2">IQ review</tspan></text>
+<rect x="1128" y="424" width="48" height="36" rx="8" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1152" y="439.8">11:00</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1188" y="434.4">Omar Khaled</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1188" y="451.2">Feedback call</tspan></text>
+<rect x="1128" y="476" width="48" height="36" rx="8" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1152" y="491.8">14:30</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1188" y="486.4">Lina Youssef</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1188" y="503.2">Plan next steps</tspan></text>
+</g>
+<g id="Recent-reports" data-name="Recent reports">
+<rect x="1108" y="556" width="292" height="184" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1128" y="585.2">Recent reports</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="1380" y="583.2">View</tspan></text>
+<circle cx="1142" cy="624" r="14" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="800" fill="#2DC197" text-anchor="middle"><tspan x="1142" y="624">S</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1166" y="622">Salma Ahmed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1166" y="638.8">Shared · 12 Nov</tspan></text>
+<circle cx="1142" cy="682" r="14" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="800" fill="#FEB612" text-anchor="middle"><tspan x="1142" y="682">A</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1166" y="680">Adam Nabil</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1166" y="696.8">Draft · 11 Nov</tspan></text>
+</g>
+<g id="Volume-chart" data-name="Volume chart">
+<rect x="288" y="756" width="800" height="220" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="785.2">Assessment volume</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="308" y="801.2">Last 6 weeks · all assessments</tspan></text>
+<circle cx="900" cy="782" r="4" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="910" y="782.8">Assessments</tspan></text>
+<rect x="320" y="849.5" width="730" height="1" rx="0" fill="#E7EBF2"/>
+<rect x="320" y="877" width="730" height="1" rx="0" fill="#E7EBF2"/>
+<rect x="320" y="904.5" width="730" height="1" rx="0" fill="#E7EBF2"/>
+<rect x="320" y="932" width="730" height="1" rx="0" fill="#E7EBF2"/>
+<path d="M 320.00 932.00 L 320.00 887.85 L 466.00 865.78 L 612.00 876.82 L 758.00 851.06 L 904.00 862.10 L 1050.00 836.35 L 1050.00 932.00 Z" transform="translate(0 0)" fill="#286CB5" opacity="0.35"/>
+<path d="M 320.00 887.85 L 466.00 865.78 L 612.00 876.82 L 758.00 851.06 L 904.00 862.10 L 1050.00 836.35" transform="translate(0 0)" fill="none" stroke="#286CB5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="320" cy="887.85" r="3.2" fill="#FFFFFF" stroke="#286CB5" stroke-width="2"/>
+<circle cx="466" cy="865.78" r="3.2" fill="#FFFFFF" stroke="#286CB5" stroke-width="2"/>
+<circle cx="612" cy="876.82" r="3.2" fill="#FFFFFF" stroke="#286CB5" stroke-width="2"/>
+<circle cx="758" cy="851.06" r="3.2" fill="#FFFFFF" stroke="#286CB5" stroke-width="2"/>
+<circle cx="904" cy="862.1" r="3.2" fill="#FFFFFF" stroke="#286CB5" stroke-width="2"/>
+<circle cx="1050" cy="836.35" r="3.2" fill="#FFFFFF" stroke="#286CB5" stroke-width="2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="320" y="949.2">W1</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="466" y="949.2">W2</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="612" y="949.2">W3</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="758" y="949.2">W4</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="904" y="949.2">W5</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="1050" y="949.2">W6</tspan></text>
+</g>
+<g id="Quick-actions" data-name="Quick actions">
+<rect x="1108" y="756" width="292" height="220" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1128" y="785.2">Quick actions</tspan></text>
+<rect x="1124" y="804" width="124" height="42" rx="10" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1.2"/>
+<path d="M 3.60 9.00 L 14.40 9.00" transform="translate(1142 816)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 9.00 3.60 L 9.00 14.40" transform="translate(1142 816)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.2" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1201" y="826.43">New assessment</tspan></text>
+<rect x="1260" y="804" width="124" height="42" rx="10" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1.2"/>
+<path d="M 3.60 14.40 L 4.32 11.16 L 11.88 3.60 L 14.40 6.12 L 6.84 13.68 Z" transform="translate(1278 816)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 14.40 L 7.20 14.40" transform="translate(1278 816)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.2" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1337" y="826.43">Add note</tspan></text>
+<rect x="1124" y="856" width="124" height="42" rx="10" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1.2"/>
+<path d="M 9.00 2.88 L 9.00 10.44" transform="translate(1142 868)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 5.76 7.56 L 9.00 10.80 L 12.24 7.56" transform="translate(1142 868)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.24 12.60 L 3.24 15.12 L 14.76 15.12 L 14.76 12.60" transform="translate(1142 868)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.2" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1201" y="878.43">Export report</tspan></text>
+<rect x="1260" y="856" width="124" height="42" rx="10" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1.2"/>
+<rect x="1280.52" y="872.68" width="12.96" height="8.64" rx="1.08" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<path d="M 2.52 5.40 L 9.00 10.08 L 15.48 5.40" transform="translate(1278 868)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.2" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1337" y="878.43">Message parent</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1128" y="922.8">Templates keep reports consistent.</tspan></text>
+</svg>

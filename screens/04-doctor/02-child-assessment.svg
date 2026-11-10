@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<title>Child assessment</title>
+<desc>IQ summary, domain radar, recommendations and session history.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1024" fill="#F5F8FD"/>
+<g id="Sidebar" data-name="Sidebar">
+<rect x="0" y="0" width="248" height="1024" rx="0" fill="#FFFFFF"/>
+<circle cx="44" cy="44" r="20" fill="#286CB5"/>
+<polygon points="45.2,35.6 38.4,45.2 43.2,45.2 41.2,52.4 49.6,42 44.4,42" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="74" y="39.4">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="1.2"><tspan x="74" y="56.2">CLINIC</tspan></text>
+<rect x="20" y="92" width="208" height="1" rx="0" fill="#E7EBF2"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(32 112)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="120.4">Overview</tspan></text>
+<rect x="14" y="154" width="220" height="44" rx="12" fill="#F1F6FE"/>
+<rect x="14" y="166" width="3" height="20" rx="1.5" fill="#286CB5"/>
+<circle cx="39.6" cy="168.8" r="2.6" fill="none" stroke="#286CB5" stroke-width="1.8"/>
+<path d="M 2.40 16.00 Q 2.80 11.60 7.60 11.60 Q 12.40 11.60 12.80 16.00" transform="translate(32 162)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.6" cy="168" r="2.2" fill="none" stroke="#286CB5" stroke-width="1.8"/>
+<path d="M 12.40 11.20 Q 18.00 11.60 18.00 16.00" transform="translate(32 162)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="64" y="170.4">Children</tspan></text>
+<path d="M 3.20 4.00 L 16.80 4.00 L 16.80 16.40 L 10.00 15.20 L 3.20 16.40 Z" transform="translate(32 212)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.00 4.00 L 10.00 15.20" transform="translate(32 212)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="220.4">Assessments</tspan></text>
+<rect x="36" y="272" width="2.6" height="6" rx="2" fill="#6B7280"/>
+<rect x="40.6" y="268.8" width="2.6" height="9.2" rx="2" fill="#6B7280"/>
+<rect x="45.2" y="265.6" width="2.6" height="12.4" rx="2" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="270.4">Reports</tspan></text>
+<rect x="34.8" y="317.2" width="14.4" height="9.6" rx="1.2" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 2.80 6.00 L 10.00 11.20 L 17.20 6.00" transform="translate(32 312)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="320.4">Messages</tspan></text>
+<rect x="16" y="914" width="216" height="86" rx="16" fill="#F6F8FC"/>
+<circle cx="46" cy="946" r="18" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="46" y="945">DH</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="74" y="941.6">Dr. Hana</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="74" y="958">Clinic</tspan></text>
+<path d="M 3.52 2.56 L 9.28 2.56 L 9.28 13.44 L 3.52 13.44 Z" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.36 8.00 L 13.76 8.00" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 11.20 5.76 L 13.76 8.00 L 11.20 10.24" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Top-bar" data-name="Top bar">
+<rect x="248" y="0" width="1192" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="248" y="71" width="1192" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="288" y="36.6">Children / Salma Ahmed / Assessment</tspan></text>
+<rect x="964" y="16" width="290" height="40" rx="12" fill="#F4F7FB"/>
+<circle cx="987.92" cy="34.92" r="4.32" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 11.16 11.16 L 14.76 14.76" transform="translate(980 27)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="1008" y="37.6">Search children, reports…</tspan></text>
+<rect x="1272" y="16" width="40" height="40" rx="20" fill="#F4F7FB"/>
+<path d="M 5.04 11.88 L 5.04 7.92 M 5.04 7.92 C 5.04 5.73 6.81 3.96 9.00 3.96 C 11.19 3.96 12.96 5.73 12.96 7.92 L 12.96 11.88 Z" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 11.88 L 14.40 11.88" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1292" cy="41.04" r="0.72" fill="#241A1F"/>
+<circle cx="1330" cy="36" r="20" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="1330" y="36.8">DH</tspan></text>
+</g>
+<g id="Child-header" data-name="Child header">
+<circle cx="320" cy="132" r="32" fill="#FFDB99"/>
+<text font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#54040F" text-anchor="middle"><tspan x="320" y="132">S</tspan></text>
+<text font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="368" y="120.8">Salma Ahmed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="368" y="148.8">Age 7 · Grade 2 · Parent: Omar Hassan</tspan></text>
+<rect x="368" y="164" width="56" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="396" y="177.8">Age 7</tspan></text>
+<rect x="432" y="164" width="64" height="24" rx="12" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="464" y="177.8">Grade 2</tspan></text>
+<rect x="504" y="164" width="88" height="24" rx="12" fill="#F3F4F6"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#6B7280" text-anchor="middle"><tspan x="548" y="177.8">ID #C-1042</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="1150" y="108" width="100" height="40" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1200" y="129.75">Add note</tspan></text>
+<rect x="1262" y="108" width="110" height="40" rx="10" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1317" y="129.75">Export</tspan></text>
+</g>
+<g id="Summary-1" data-name="Summary 1">
+<rect x="288" y="200" width="260" height="100" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="306" y="222">IQ score</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="306" y="253.2">112</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#286CB5" text-anchor="start"><tspan x="306" y="277.2">Above average</tspan></text>
+</g>
+<g id="Summary-2" data-name="Summary 2">
+<rect x="568" y="200" width="260" height="100" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="586" y="222">Percentile</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="586" y="253.2">78th</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="586" y="277.2">vs same age</tspan></text>
+</g>
+<g id="Summary-3" data-name="Summary 3">
+<rect x="848" y="200" width="260" height="100" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="866" y="222">Completion</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="866" y="253.2">100%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#7BA400" text-anchor="start"><tspan x="866" y="277.2">24 of 24 items</tspan></text>
+</g>
+<g id="Summary-4" data-name="Summary 4">
+<rect x="1128" y="200" width="260" height="100" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1146" y="222">Last session</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1146" y="253.2">12 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FF8310" text-anchor="start"><tspan x="1146" y="277.2">20 minutes</tspan></text>
+</g>
+<g id="Tabs" data-name="Tabs">
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="start"><tspan x="288" y="332.8">Overview</tspan></text>
+<rect x="288" y="348" width="64" height="2" rx="0" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="390" y="332.8">Responses</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="500" y="332.8">History</tspan></text>
+</g>
+<g id="Domain-scores" data-name="Domain scores">
+<rect x="288" y="364" width="720" height="420" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="393.2">Domain scores</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="308" y="409.2">Percentile rank by cognitive domain</tspan></text>
+<polygon points="470,546.5 498.06,566.88 487.34,599.87 452.66,599.87 441.94,566.88" fill="none" stroke="#E7EBF2" stroke-width="1"/>
+<polygon points="470,517 526.11,557.77 504.68,623.73 435.32,623.73 413.89,557.77" fill="none" stroke="#E7EBF2" stroke-width="1"/>
+<polygon points="470,487.5 554.17,548.65 522.02,647.6 417.98,647.6 385.83,548.65" fill="none" stroke="#E7EBF2" stroke-width="1"/>
+<polygon points="470,458 582.22,539.54 539.36,671.46 400.64,671.46 357.78,539.54" fill="none" stroke="#E7EBF2" stroke-width="1"/>
+<path d="M 470.00 576.00 L 470.00 458.00" transform="translate(0 0)" fill="none" stroke="#E7EBF2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 470.00 576.00 L 582.22 539.54" transform="translate(0 0)" fill="none" stroke="#E7EBF2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 470.00 576.00 L 539.36 671.46" transform="translate(0 0)" fill="none" stroke="#E7EBF2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 470.00 576.00 L 400.64 671.46" transform="translate(0 0)" fill="none" stroke="#E7EBF2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 470.00 576.00 L 357.78 539.54" transform="translate(0 0)" fill="none" stroke="#E7EBF2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="470,483.96 541.82,552.66 526.87,654.28 421.45,642.82 386.95,549.02" fill="#286CB5" stroke="#286CB5" stroke-width="2" opacity="0.18"/>
+<polygon points="470,483.96 541.82,552.66 526.87,654.28 421.45,642.82 386.95,549.02" fill="none" stroke="#286CB5" stroke-width="2.2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="470" y="433">Logic</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="606.95" y="532.5">Memory</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="554.64" y="693.5">Focus</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="385.36" y="693.5">Language</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="333.05" y="532.5">Creative</tspan></text>
+<circle cx="668" cy="477" r="4" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="682" y="478">Logic</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#286CB5" text-anchor="end"><tspan x="860" y="478">78</tspan></text>
+<rect x="870" y="476" width="100" height="5" rx="2.5" fill="#E7EBF2"/>
+<rect x="870" y="476" width="78" height="5" rx="2.5" fill="#286CB5"/>
+<circle cx="668" cy="515" r="4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="682" y="516">Memory</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#2DC197" text-anchor="end"><tspan x="860" y="516">64</tspan></text>
+<rect x="870" y="514" width="100" height="5" rx="2.5" fill="#E7EBF2"/>
+<rect x="870" y="514" width="64" height="5" rx="2.5" fill="#2DC197"/>
+<circle cx="668" cy="553" r="4" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="682" y="554">Focus</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FF8310" text-anchor="end"><tspan x="860" y="554">82</tspan></text>
+<rect x="870" y="552" width="100" height="5" rx="2.5" fill="#E7EBF2"/>
+<rect x="870" y="552" width="82" height="5" rx="2.5" fill="#FF8310"/>
+<circle cx="668" cy="591" r="4" fill="#8A38F5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="682" y="592">Language</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#8A38F5" text-anchor="end"><tspan x="860" y="592">70</tspan></text>
+<rect x="870" y="590" width="100" height="5" rx="2.5" fill="#E7EBF2"/>
+<rect x="870" y="590" width="70" height="5" rx="2.5" fill="#8A38F5"/>
+<circle cx="668" cy="629" r="4" fill="#7BA400"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="682" y="630">Creativity</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#7BA400" text-anchor="end"><tspan x="860" y="630">74</tspan></text>
+<rect x="870" y="628" width="100" height="5" rx="2.5" fill="#E7EBF2"/>
+<rect x="870" y="628" width="74" height="5" rx="2.5" fill="#7BA400"/>
+<rect x="660" y="664" width="320" height="92" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#286CB5" text-anchor="start" letter-spacing="1"><tspan x="676" y="684.4">INTERPRETATION</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="676" y="701.6">Strong logic and focus. Memory is the main area to</tspan><tspan x="676" y="715.6">support with short, repeated practice.</tspan></text>
+</g>
+<g id="Recommendations" data-name="Recommendations">
+<rect x="1028" y="364" width="372" height="260" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1048" y="393.2">Recommendations</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1048" y="409.2">Share with the parent after review</tspan></text>
+<circle cx="1062" cy="440" r="12" fill="#E6F8F2"/>
+<circle cx="1062" cy="440" r="4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1086" y="440.4">Memory Match</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1086" y="457.2">10 min · 3× per week</tspan></text>
+<circle cx="1062" cy="498" r="12" fill="#FFF3E2"/>
+<circle cx="1062" cy="498" r="4" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1086" y="498.4">Pattern Hunt</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1086" y="515.2">5 min · before reading</tspan></text>
+<circle cx="1062" cy="556" r="12" fill="#F1F6FE"/>
+<circle cx="1062" cy="556" r="4" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1086" y="556.4">Short focus breaks</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1086" y="573.2">After 12 minutes</tspan></text>
+</g>
+<g id="Assessment-details" data-name="Assessment details">
+<rect x="1028" y="644" width="372" height="200" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1048" y="673.2">Assessment details</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="699.2">Assessment</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="699.6">SPARK IQ · Form A</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="733.2">Completed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="733.6">12 Nov 2026 · 10:24</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="767.2">Reviewer</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="767.6">Dr. Hana Saleh</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="801.2">Visibility</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="801.6">Parent · shared</tspan></text>
+</g>
+<g id="Recent-sessions" data-name="Recent sessions">
+<rect x="288" y="800" width="720" height="160" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="828.4">Recent sessions</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="988" y="827.2">View all</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="308" y="853.2">12 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="378" y="854">IQ Assessment</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="600" y="853.2">24 items</tspan></text>
+<rect x="870" y="840" width="54" height="24" rx="12" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="897" y="853.8">112</tspan></text>
+<path d="M 4.32 2.40 L 7.68 6.00 L 4.32 9.60" transform="translate(968 844)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="308" y="889.2">10 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="378" y="890">Memory Match</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="600" y="889.2">8 pairs</tspan></text>
+<rect x="870" y="876" width="54" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="897" y="889.8">90%</tspan></text>
+<path d="M 4.32 2.40 L 7.68 6.00 L 4.32 9.60" transform="translate(968 880)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="308" y="925.2">8 Nov</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="378" y="926">Pattern Hunt</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="600" y="925.2">6 rounds</tspan></text>
+<rect x="870" y="912" width="54" height="24" rx="12" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="897" y="925.8">85%</tspan></text>
+<path d="M 4.32 2.40 L 7.68 6.00 L 4.32 9.60" transform="translate(968 916)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

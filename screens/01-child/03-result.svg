@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+<title>Game result</title>
+<desc>Celebration, score ring, rewards and next actions.</desc>
+<rect id="Background" x="0" y="0" width="390" height="844" fill="#FFF8EE"/>
+<g id="Status-bar" data-name="Status bar">
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="22" y="23.6">9:41</tspan></text>
+<rect x="302.4" y="24.3" width="1.8" height="3" rx="1" fill="#241A1F"/>
+<rect x="305.1" y="22.5" width="1.8" height="4.8" rx="1" fill="#241A1F"/>
+<rect x="307.8" y="20.7" width="1.8" height="6.6" rx="1" fill="#241A1F"/>
+<rect x="310.5" y="18.9" width="1.8" height="8.4" rx="1" fill="#241A1F"/>
+<path d="M 2.88 7.14 C 3.72 5.35 5.52 4.20 7.50 4.20 C 9.48 4.20 11.28 5.35 12.12 7.14" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.80 7.41 C 5.41 6.53 6.42 6.00 7.50 6.00 C 8.58 6.00 9.59 6.53 10.20 7.41" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329.5" cy="26.4" r="0.53" fill="#241A1F"/>
+<rect x="347.8" y="19.4" width="12.96" height="7.2" rx="0.9" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<rect x="348.88" y="20.48" width="7.56" height="5.04" rx="0.36" fill="#241A1F"/>
+<rect x="361.12" y="21.56" width="1.08" height="2.88" rx="0.36" fill="#241A1F"/>
+</g>
+<g id="Confetti" data-name="Confetti">
+<circle cx="48" cy="70" r="3.5" fill="#FF8310" opacity="0.8"/>
+<circle cx="96" cy="52" r="3.5" fill="#2DC197" opacity="0.8"/>
+<circle cx="150" cy="66" r="3.5" fill="#D8E9FC" opacity="0.8"/>
+<circle cx="230" cy="48" r="3.5" fill="#8A38F5" opacity="0.8"/>
+<circle cx="300" cy="62" r="3.5" fill="#FF8310" opacity="0.8"/>
+<circle cx="344" cy="92" r="3.5" fill="#FEB612" opacity="0.8"/>
+<circle cx="70" cy="110" r="3.5" fill="#8A38F5" opacity="0.8"/>
+<circle cx="330" cy="130" r="3.5" fill="#2DC197" opacity="0.8"/>
+</g>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#241A1F" text-anchor="middle"><tspan x="195" y="71.2">Amazing work, Salma!</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="195" y="97.6">You finished Pattern Hunt.</tspan></text>
+<g id="Score-card" data-name="Score card">
+<rect x="20" y="120" width="350" height="236" rx="24" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="195" cy="214" r="64" fill="none" stroke="#E7EBF2" stroke-width="12"/>
+<path d="M 195.00 150.00 C 230.35 150.00 259.00 178.65 259.00 214.00 C 259.00 249.35 230.35 278.00 195.00 278.00 C 159.65 278.00 131.00 249.35 131.00 214.00" transform="translate(0 0)" fill="none" stroke="#FF8310" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="34" font-weight="900" fill="#241A1F" text-anchor="middle"><tspan x="195" y="215.2">850</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="195" y="238.8">points</tspan></text>
+<polygon points="167,258.8 169.43,264.65 175.75,265.16 170.94,269.28 172.41,275.44 167,272.14 161.59,275.44 163.06,269.28 158.25,265.16 164.57,264.65" fill="#FEB612"/>
+<polygon points="197,254.96 199.92,261.98 207.5,262.59 201.72,267.54 203.49,274.93 197,270.97 190.51,274.93 192.28,267.54 186.5,262.59 194.08,261.98" fill="#FEB612"/>
+<polygon points="227,258.8 229.43,264.65 235.75,265.16 230.94,269.28 232.41,275.44 227,272.14 221.59,275.44 223.06,269.28 218.25,265.16 224.57,264.65" fill="#FEB612"/>
+<rect x="150" y="292" width="100.6" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="200.3" y="305.8">Personal best</tspan></text>
+</g>
+<g id="Stat-1" data-name="Stat 1">
+<rect x="20" y="376" width="106" height="80" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="73" y="406.4">80%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="73" y="428">Accuracy</tspan></text>
+</g>
+<g id="Stat-2" data-name="Stat 2">
+<rect x="142" y="376" width="106" height="80" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="195" y="406.4">2:10</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="195" y="428">Time</tspan></text>
+</g>
+<g id="Stat-3" data-name="Stat 3">
+<rect x="264" y="376" width="106" height="80" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#241A1F" text-anchor="middle"><tspan x="317" y="406.4">4</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="317" y="428">Day streak</tspan></text>
+</g>
+<g id="Badge-card" data-name="Badge card">
+<rect x="20" y="476" width="350" height="94" rx="18" fill="#FFF3E2"/>
+<circle cx="52" cy="523" r="26" fill="#FEB612"/>
+<polygon points="52,511.96 54.92,518.98 62.5,519.59 56.72,524.54 58.49,531.93 52,527.97 45.51,531.93 47.28,524.54 41.5,519.59 49.08,518.98" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="90" y="504">Pattern Master</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="90" y="522.4">2 more sessions to unlock</tspan></text>
+<rect x="90" y="540" width="190" height="6" rx="3" fill="#FFFFFF"/>
+<rect x="90" y="540" width="114" height="6" rx="3" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="end"><tspan x="332" y="541">60%</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="20" y="590" width="350" height="52" rx="18" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="195" y="618.45">Play again</tspan></text>
+<rect x="20" y="654" width="350" height="48" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="195" y="680.27">Back home</tspan></text>
+</g>
+<g id="Result-mascot" data-name="Result mascot">
+<circle cx="324" cy="721.04" r="3.42" fill="#FF8310"/>
+<path d="M 0 0 L 0 4.18" transform="translate(324 724.46)" fill="none" stroke="#241A1F" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="300.44" y="728.64" width="47.12" height="31.92" rx="12.16" fill="#FFFFFF" stroke="#241A1F" stroke-width="1.5"/>
+<rect x="305" y="733.2" width="38" height="22.8" rx="8.36" fill="#EAF4FF"/>
+<circle cx="315.64" cy="742.32" r="3.42" fill="#241A1F"/>
+<circle cx="332.36" cy="742.32" r="3.42" fill="#241A1F"/>
+<circle cx="316.55" cy="741.41" r="0.91" fill="#FFFFFF"/>
+<circle cx="333.27" cy="741.41" r="0.91" fill="#FFFFFF"/>
+<path d="M 0 0 Q 5.32 4.56 10.64 0" transform="translate(318.68 749.16)" fill="none" stroke="#241A1F" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="305" y="762.08" width="38" height="21.28" rx="7.6" fill="#FF8310"/>
+<rect x="314.88" y="766.64" width="18.24" height="12.16" rx="5.32" fill="#FFFFFF" opacity="0.9"/>
+<circle cx="324" cy="772.72" r="2.66" fill="#FF8310"/>
+<rect x="298.16" y="763.6" width="6.84" height="15.2" rx="3.42" fill="#FF8310"/>
+<rect x="343" y="763.6" width="6.84" height="15.2" rx="3.42" fill="#FF8310"/>
+<rect x="308.8" y="783.36" width="12.16" height="6.08" rx="3.04" fill="#241A1F"/>
+<rect x="327.04" y="783.36" width="12.16" height="6.08" rx="3.04" fill="#241A1F"/>
+</g>
+<g id="Praise-bubble" data-name="Praise bubble">
+<rect x="20" y="730" width="240" height="58" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="36" y="751.2">You&#x27;re on fire! Keep going.</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SPARK UI/UX kit</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Inter, system-ui, sans-serif; background: #F4F6FA; color: #241A1F; }
+  header { padding: 40px 48px 24px; background: #fff; border-bottom: 1px solid #E7EBF2; }
+  h1 { margin: 0 0 8px; font-size: 30px; letter-spacing: -0.02em; }
+  header p { margin: 0; color: #6B7280; max-width: 760px; line-height: 1.6; font-size: 14px; }
+  .meta { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 18px; }
+  .pill { background: #F1F4F9; border-radius: 999px; padding: 6px 12px; font-size: 12px; color: #4A3B42; }
+  main { padding: 32px 48px 80px; }
+  section { margin-bottom: 48px; }
+  .role-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 6px; }
+  .role-head h2 { margin: 0; font-size: 20px; }
+  .role-head span { color: #6B7280; font-size: 13px; }
+  .role-blurb { margin: 0 0 18px; color: #6B7280; font-size: 13px; }
+  .grid { display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; }
+  .card { background: #fff; border: 1px solid #E7EBF2; border-radius: 12px; padding: 10px; }
+  .card img { display: block; border-radius: 8px; }
+  .card.mobile img { width: 260px; }
+  .card.tablet img { width: 560px; }
+  .card.desktop img { width: 620px; }
+  .caption { display: flex; justify-content: space-between; gap: 10px; padding: 9px 4px 2px; font-size: 12px; }
+  .caption b { font-weight: 700; }
+  .caption span { color: #6B7280; }
+  footer { padding: 0 48px 40px; color: #6B7280; font-size: 12px; }
+  code { background: #EEF1F6; padding: 2px 5px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>SPARK UI/UX kit</h1>
+  <p>Separate screens per role, ready to import into Figma. Open this page to review the screens,
+     or use the plugin in <code>plugin/</code> to build an editable Figma file automatically.</p>
+  <div class="meta">
+    <span class="pill">6 role folders</span>
+    <span class="pill">19 screens + design system</span>
+    <span class="pill">Editable SVG &amp; Figma plugin</span>
+  </div>
+</header>
+<main>
+
+  <section>
+    <div class="role-head"><h2>Design system</h2><span>1 screen</span></div>
+    <p class="role-blurb">Tokens, colours, type and components shared by every role.</p>
+    <div class="grid">
+      <div class="card desktop"><a href="screens/00-design-system/00-design-system.svg" target="_blank"><img src="screens/00-design-system/00-design-system.svg" alt="Design system"></a><div class="caption"><b>00-design-system · Design system</b><span>1440×1240</span></div></div>
+    </div>
+  </section>
+  <section>
+    <div class="role-head"><h2>Child app</h2><span>4 screens</span></div>
+    <p class="role-blurb">Playful 390×844 mobile app: home, IQ question, rewards, progress.</p>
+    <div class="grid">
+      <div class="card mobile"><a href="screens/01-child/01-home.svg" target="_blank"><img src="screens/01-child/01-home.svg" alt="Home"></a><div class="caption"><b>01-home · Home</b><span>390×844</span></div></div>
+      <div class="card mobile"><a href="screens/01-child/02-iq-question.svg" target="_blank"><img src="screens/01-child/02-iq-question.svg" alt="IQ question"></a><div class="caption"><b>02-iq-question · IQ question</b><span>390×844</span></div></div>
+      <div class="card mobile"><a href="screens/01-child/03-result.svg" target="_blank"><img src="screens/01-child/03-result.svg" alt="Game result"></a><div class="caption"><b>03-result · Game result</b><span>390×844</span></div></div>
+      <div class="card mobile"><a href="screens/01-child/04-progress.svg" target="_blank"><img src="screens/01-child/04-progress.svg" alt="My progress"></a><div class="caption"><b>04-progress · My progress</b><span>390×844</span></div></div>
+    </div>
+  </section>
+  <section>
+    <div class="role-head"><h2>Parent app</h2><span>4 screens</span></div>
+    <p class="role-blurb">Calm mobile app: dashboard, child progress, reports, account.</p>
+    <div class="grid">
+      <div class="card mobile"><a href="screens/02-parent/01-home.svg" target="_blank"><img src="screens/02-parent/01-home.svg" alt="Parent dashboard"></a><div class="caption"><b>01-home · Parent dashboard</b><span>390×844</span></div></div>
+      <div class="card mobile"><a href="screens/02-parent/02-child-progress.svg" target="_blank"><img src="screens/02-parent/02-child-progress.svg" alt="Child progress"></a><div class="caption"><b>02-child-progress · Child progress</b><span>390×844</span></div></div>
+      <div class="card mobile"><a href="screens/02-parent/03-reports.svg" target="_blank"><img src="screens/02-parent/03-reports.svg" alt="Reports &amp; activity"></a><div class="caption"><b>03-reports · Reports &amp; activity</b><span>390×844</span></div></div>
+      <div class="card mobile"><a href="screens/02-parent/04-account.svg" target="_blank"><img src="screens/02-parent/04-account.svg" alt="Account &amp; privacy"></a><div class="caption"><b>04-account · Account &amp; privacy</b><span>390×844</span></div></div>
+    </div>
+  </section>
+  <section>
+    <div class="role-head"><h2>Robot control</h2><span>3 screens</span></div>
+    <p class="role-blurb">Dark 1180×840 tablet console: camera, joystick, telemetry, sessions.</p>
+    <div class="grid">
+      <div class="card tablet"><a href="screens/03-robot-control/01-control-room.svg" target="_blank"><img src="screens/03-robot-control/01-control-room.svg" alt="Control room"></a><div class="caption"><b>01-control-room · Control room</b><span>1180×840</span></div></div>
+      <div class="card tablet"><a href="screens/03-robot-control/02-telemetry.svg" target="_blank"><img src="screens/03-robot-control/02-telemetry.svg" alt="Telemetry"></a><div class="caption"><b>02-telemetry · Telemetry</b><span>1180×840</span></div></div>
+      <div class="card tablet"><a href="screens/03-robot-control/03-session.svg" target="_blank"><img src="screens/03-robot-control/03-session.svg" alt="Session &amp; commands"></a><div class="caption"><b>03-session · Session &amp; commands</b><span>1180×840</span></div></div>
+    </div>
+  </section>
+  <section>
+    <div class="role-head"><h2>Doctor workspace</h2><span>4 screens</span></div>
+    <p class="role-blurb">Desktop 1440×1024: overview, child assessment, report review, exports.</p>
+    <div class="grid">
+      <div class="card desktop"><a href="screens/04-doctor/01-overview.svg" target="_blank"><img src="screens/04-doctor/01-overview.svg" alt="Doctor overview"></a><div class="caption"><b>01-overview · Doctor overview</b><span>1440×1024</span></div></div>
+      <div class="card desktop"><a href="screens/04-doctor/02-child-assessment.svg" target="_blank"><img src="screens/04-doctor/02-child-assessment.svg" alt="Child assessment"></a><div class="caption"><b>02-child-assessment · Child assessment</b><span>1440×1024</span></div></div>
+      <div class="card desktop"><a href="screens/04-doctor/03-report-review.svg" target="_blank"><img src="screens/04-doctor/03-report-review.svg" alt="Report review"></a><div class="caption"><b>03-report-review · Report review</b><span>1440×1024</span></div></div>
+      <div class="card desktop"><a href="screens/04-doctor/04-exports.svg" target="_blank"><img src="screens/04-doctor/04-exports.svg" alt="Reports &amp; exports"></a><div class="caption"><b>04-exports · Reports &amp; exports</b><span>1440×1024</span></div></div>
+    </div>
+  </section>
+  <section>
+    <div class="role-head"><h2>Admin &amp; research</h2><span>4 screens</span></div>
+    <p class="role-blurb">Desktop 1440×1024: platform overview, users, analytics, audit.</p>
+    <div class="grid">
+      <div class="card desktop"><a href="screens/05-admin-research/01-overview.svg" target="_blank"><img src="screens/05-admin-research/01-overview.svg" alt="Admin overview"></a><div class="caption"><b>01-overview · Admin overview</b><span>1440×1024</span></div></div>
+      <div class="card desktop"><a href="screens/05-admin-research/02-users.svg" target="_blank"><img src="screens/05-admin-research/02-users.svg" alt="Users &amp; roles"></a><div class="caption"><b>02-users · Users &amp; roles</b><span>1440×1024</span></div></div>
+      <div class="card desktop"><a href="screens/05-admin-research/03-research.svg" target="_blank"><img src="screens/05-admin-research/03-research.svg" alt="Research analytics"></a><div class="caption"><b>03-research · Research analytics</b><span>1440×1024</span></div></div>
+      <div class="card desktop"><a href="screens/05-admin-research/04-audit.svg" target="_blank"><img src="screens/05-admin-research/04-audit.svg" alt="Audit &amp; exports"></a><div class="caption"><b>04-audit · Audit &amp; exports</b><span>1440×1024</span></div></div>
+    </div>
+  </section>
+</main>
+<footer>
+  Generated by <code>tools/build.py</code>. Import guide: <code>README.md</code> ·
+  Design inventory: <code>DESIGN.md</code>.
+</footer>
+</body>
+</html>

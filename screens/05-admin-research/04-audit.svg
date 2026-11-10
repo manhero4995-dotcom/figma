@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<title>Audit &amp; exports</title>
+<desc>Immutable audit table, export queue and retention policy.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1024" fill="#F5F7FF"/>
+<g id="Sidebar" data-name="Sidebar">
+<rect x="0" y="0" width="248" height="1024" rx="0" fill="#080833"/>
+<circle cx="44" cy="44" r="20" fill="#2DC197"/>
+<polygon points="45.2,35.6 38.4,45.2 43.2,45.2 41.2,52.4 49.6,42 44.4,42" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="74" y="39.4">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="74" y="56.2">PLATFORM</tspan></text>
+<rect x="20" y="92" width="208" height="1" rx="0" fill="#243349"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(32 112)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="120.4">Overview</tspan></text>
+<circle cx="39.6" cy="168.8" r="2.6" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 2.40 16.00 Q 2.80 11.60 7.60 11.60 Q 12.40 11.60 12.80 16.00" transform="translate(32 162)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.6" cy="168" r="2.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 12.40 11.20 Q 18.00 11.60 18.00 16.00" transform="translate(32 162)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="170.4">Users</tspan></text>
+<circle cx="42" cy="219" r="3.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 4.00 16.40 Q 4.40 11.60 10.00 11.60 Q 15.60 11.60 16.00 16.40" transform="translate(32 212)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="220.4">Children</tspan></text>
+<rect x="34.8" y="265.6" width="14.4" height="9.6" rx="1.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 10.00 13.20 L 10.00 16.40 M 6.80 16.40 L 13.20 16.40" transform="translate(32 262)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="270.4">Devices</tspan></text>
+<path d="M 6.00 3.20 L 14.00 3.20 L 12.80 8.00 L 16.40 15.60 Q 16.80 17.20 14.80 17.20 L 5.20 17.20 Q 3.20 17.20 3.60 15.60 L 7.20 8.00 Z" transform="translate(32 312)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.00 12.40 L 14.00 12.40" transform="translate(32 312)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="320.4">Research</tspan></text>
+<rect x="14" y="354" width="220" height="44" rx="12" fill="#122A4A"/>
+<rect x="14" y="366" width="3" height="20" rx="1.5" fill="#2DC197"/>
+<path d="M 10.00 2.40 L 16.40 5.20 L 15.60 11.60 Q 14.00 16.00 10.00 17.60 Q 6.00 16.00 4.40 11.60 L 3.60 5.20 Z" transform="translate(32 362)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="64" y="370.4">Audit</tspan></text>
+<rect x="16" y="914" width="216" height="86" rx="16" fill="#0F1B30"/>
+<circle cx="46" cy="946" r="18" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="46" y="945">AR</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="74" y="941.6">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="74" y="958">Platform</tspan></text>
+<path d="M 3.52 2.56 L 9.28 2.56 L 9.28 13.44 L 3.52 13.44 Z" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.36 8.00 L 13.76 8.00" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 11.20 5.76 L 13.76 8.00 L 11.20 10.24" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Top-bar" data-name="Top bar">
+<rect x="248" y="0" width="1192" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="248" y="71" width="1192" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="288" y="36.6">Admin / Audit &amp; exports</tspan></text>
+<rect x="964" y="16" width="290" height="40" rx="12" fill="#F4F7FB"/>
+<circle cx="987.92" cy="34.92" r="4.32" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 11.16 11.16 L 14.76 14.76" transform="translate(980 27)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="1008" y="37.6">Search users, reports…</tspan></text>
+<rect x="1272" y="16" width="40" height="40" rx="20" fill="#F4F7FB"/>
+<path d="M 5.04 11.88 L 5.04 7.92 M 5.04 7.92 C 5.04 5.73 6.81 3.96 9.00 3.96 C 11.19 3.96 12.96 5.73 12.96 7.92 L 12.96 11.88 Z" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 11.88 L 14.40 11.88" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1292" cy="41.04" r="0.72" fill="#241A1F"/>
+<circle cx="1330" cy="36" r="20" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="1330" y="36.8">AR</tspan></text>
+</g>
+<g id="Page-header" data-name="Page header">
+<text font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="288" y="116.8">Audit &amp; exports</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="288" y="145.2">Every admin action is recorded. Exports are tracked too.</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="1212" y="96" width="168" height="40" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<path d="M 9.00 2.88 L 9.00 10.44" transform="translate(1230 107)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 5.76 7.56 L 9.00 10.80 L 12.24 7.56" transform="translate(1230 107)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.24 12.60 L 3.24 15.12 L 14.76 15.12 L 14.76 12.60" transform="translate(1230 107)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1311" y="117.58">Export audit log</tspan></text>
+</g>
+<g id="Filters" data-name="Filters">
+<rect x="288" y="154" width="88" height="32" rx="16" fill="#030075"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="332" y="169.2">All events</tspan></text>
+<rect x="386" y="154" width="54" height="32" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="413" y="169.2">Auth</tspan></text>
+<rect x="450" y="154" width="54" height="32" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="477" y="169.2">Data</tspan></text>
+<rect x="514" y="154" width="64" height="32" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="546" y="169.2">Exports</tspan></text>
+</g>
+<g id="Search" data-name="Search">
+<rect x="880" y="154" width="320" height="32" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="901.04" cy="169.04" r="3.84" fill="none" stroke="#9AA3AF" stroke-width="1.44"/>
+<path d="M 9.92 9.92 L 13.12 13.12" transform="translate(894 162)" fill="none" stroke="#9AA3AF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="918" y="170.2">Search actor, action or IP…</tspan></text>
+</g>
+<g id="Button-2" data-name="Button">
+<rect x="1212" y="154" width="168" height="32" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<rect x="1232.88" y="165.32" width="12.24" height="10.8" rx="1.26" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<path d="M 2.88 7.56 L 15.12 7.56" transform="translate(1230 161)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.12 2.88 L 6.12 5.76 M 11.88 2.88 L 11.88 5.76" transform="translate(1230 161)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1311" y="171.57">Last 30 days</tspan></text>
+</g>
+<g id="Audit-table" data-name="Audit table">
+<rect x="288" y="204" width="720" height="620" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<rect x="308" y="224" width="680" height="34" rx="8" fill="#F6F8FC"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="324" y="241.2">Time</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="410" y="241.2">Actor</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="530" y="241.2">Action</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="710" y="241.2">Entity</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="850" y="241.2">IP</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="930" y="241.2">Result</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="286.8">11:12</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="287.2">Dr. Hana</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="286.8">report.approve</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="286.8">Report · Salma</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="286.8">10.0.0.24</tspan></text>
+<rect x="930" y="272" width="46" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="953" y="285.8">OK</tspan></text>
+<rect x="308" y="312" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="342.8">11:04</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="343.2">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="342.8">user.role.update</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="342.8">User · Omar</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="342.8">10.0.0.8</tspan></text>
+<rect x="930" y="328" width="46" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="953" y="341.8">OK</tspan></text>
+<rect x="308" y="368" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="398.8">10:58</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="399.2">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="398.8">export.csv</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="398.8">Cohort · 412 rows</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="398.8">10.0.0.8</tspan></text>
+<rect x="930" y="384" width="46" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="953" y="397.8">OK</tspan></text>
+<rect x="308" y="424" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="454.8">10:41</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="455.2">System</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="454.8">robot.offline</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="454.8">Device · R-07</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="454.8">—</tspan></text>
+<rect x="930" y="440" width="46" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="953" y="453.8">WARN</tspan></text>
+<rect x="308" y="480" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="510.8">10:22</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="511.2">Unknown</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="510.8">auth.login</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="510.8">admin@spark.app</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="510.8">82.14.3.9</tspan></text>
+<rect x="930" y="496" width="46" height="24" rx="12" fill="#FDECEA"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#D8301E" text-anchor="middle"><tspan x="953" y="509.8">FAIL</tspan></text>
+<rect x="308" y="536" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="566.8">09:58</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="567.2">Dr. Hana</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="566.8">report.edit</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="566.8">Report · Omar</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="566.8">10.0.0.24</tspan></text>
+<rect x="930" y="552" width="46" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="953" y="565.8">OK</tspan></text>
+<rect x="308" y="592" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="622.8">09:30</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="623.2">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="622.8">user.invite</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="622.8">yara@clinic.org</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="622.8">10.0.0.8</tspan></text>
+<rect x="930" y="608" width="46" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="953" y="621.8">OK</tspan></text>
+<rect x="308" y="648" width="680" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="678.8">09:02</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="410" y="679.2">Rami</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#4A3B42" text-anchor="start"><tspan x="530" y="678.8">research.export</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="710" y="678.8">Aggregate · Age 6–9</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="850" y="678.8">10.0.0.51</tspan></text>
+<rect x="930" y="664" width="46" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="953" y="677.8">OK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="324" y="792.4">Immutable log · retained for 90 days</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#1A478B" text-anchor="end"><tspan x="980" y="792.8">Next page ›</tspan></text>
+</g>
+<g id="Export-center" data-name="Export center">
+<rect x="1028" y="204" width="372" height="300" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1048" y="233.2">Export center</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1048" y="249.2">Generated files appear here</tspan></text>
+<circle cx="1068" cy="282" r="12" fill="#E6F8F2"/>
+<path d="M 6.00 1.92 L 6.00 6.96" transform="translate(1062 275)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.84 5.04 L 6.00 7.20 L 8.16 5.04" transform="translate(1062 275)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 2.16 8.40 L 2.16 10.08 L 9.84 10.08 L 9.84 8.40" transform="translate(1062 275)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1090" y="279.6">Participants CSV</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1090" y="296.8">412 rows · anonymised</tspan></text>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#2DC197" text-anchor="end"><tspan x="1384" y="286">ready</tspan></text>
+<circle cx="1068" cy="344" r="12" fill="#E6F8F2"/>
+<path d="M 6.00 1.92 L 6.00 6.96" transform="translate(1062 337)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.84 5.04 L 6.00 7.20 L 8.16 5.04" transform="translate(1062 337)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 2.16 8.40 L 2.16 10.08 L 9.84 10.08 L 9.84 8.40" transform="translate(1062 337)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1090" y="341.6">Assessment results</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1090" y="358.8">1,840 rows · CSV</tspan></text>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#2DC197" text-anchor="end"><tspan x="1384" y="348">ready</tspan></text>
+<circle cx="1068" cy="406" r="12" fill="#FFF7DF"/>
+<path d="M 6.00 1.92 L 6.00 6.96" transform="translate(1062 399)" fill="none" stroke="#FEB612" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.84 5.04 L 6.00 7.20 L 8.16 5.04" transform="translate(1062 399)" fill="none" stroke="#FEB612" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 2.16 8.40 L 2.16 10.08 L 9.84 10.08 L 9.84 8.40" transform="translate(1062 399)" fill="none" stroke="#FEB612" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1090" y="403.6">Audit log</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1090" y="420.8">Last 30 days · CSV</tspan></text>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#FEB612" text-anchor="end"><tspan x="1384" y="410">queued</tspan></text>
+<rect x="1048" y="456" width="332" height="32" rx="9" fill="#030075"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1214" y="473.57">Request new export</tspan></text>
+</g>
+<g id="Retention" data-name="Retention">
+<rect x="1028" y="524" width="372" height="300" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1048" y="553.2">Data retention</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1048" y="569.2">Applied automatically</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="599.2">Audit logs</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="599.2">90 days</tspan></text>
+<rect x="1048" y="618" width="332" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="637.2">Reports</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="637.2">24 months</tspan></text>
+<rect x="1048" y="656" width="332" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="675.2">Raw events</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="675.2">30 days</tspan></text>
+<rect x="1048" y="694" width="332" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1048" y="713.2">Anonymised data</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="713.2">Indefinite</tspan></text>
+<rect x="1048" y="732" width="332" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="1048" y="761.2">Anonymise exports</tspan></text>
+<rect x="1322" y="752" width="36" height="20" rx="10" fill="#2DC197"/>
+<circle cx="1348" cy="762" r="7" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="7.8" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1048" y="794.24">Direct identifiers are removed before download.</tspan></text>
+</g>
+<g id="Privacy-note" data-name="Privacy note">
+<rect x="291.52" y="859.36" width="8.96" height="6.08" rx="1.12" fill="none" stroke="#1A478B" stroke-width="1.44"/>
+<path d="M 5.44 7.36 L 5.44 6.40 M 5.44 6.40 C 5.44 4.99 6.59 3.84 8.00 3.84 C 9.41 3.84 10.56 4.99 10.56 6.40 L 10.56 7.36" transform="translate(288 852)" fill="none" stroke="#1A478B" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="312" y="858.8">Exports are logged with actor, timestamp and row count. Only admins can download audit data.</tspan></text>
+</g>
+</svg>

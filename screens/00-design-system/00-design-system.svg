@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1240" viewBox="0 0 1440 1240" fill="none">
+<title>Design system</title>
+<desc>Brand colours, role accents, typography and shared components.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1240" fill="#F7F8FC"/>
+<g id="Title" data-name="Title">
+<text font-family="Inter, sans-serif" font-size="36" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="56" y="76.8">SPARK UI/UX</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="56" y="107.6">Design system, role accents and shared components for the child, parent, robot, doctor and admin products.</tspan></text>
+<rect x="1250" y="56" width="134" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1317" y="69.8">v1 · Nov 2026</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="56" y="150">Brand colours</tspan></text>
+<g id="Brand-Maroon" data-name="Brand Maroon">
+<rect x="56" y="166" width="200" height="96" rx="14" fill="#54040F"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="70" y="188.8">Maroon</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="70" y="233.2">#54040F</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="56" y="276.8">Brand / Maroon</tspan></text>
+</g>
+<g id="Brand-Cream" data-name="Brand Cream">
+<rect x="272" y="166" width="200" height="96" rx="14" fill="#FFDB99"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="286" y="188.8">Cream</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#241A1F" text-anchor="start" opacity="0.85"><tspan x="286" y="233.2">#FFDB99</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="272" y="276.8">Brand / Cream</tspan></text>
+</g>
+<g id="Brand-Orange" data-name="Brand Orange">
+<rect x="488" y="166" width="200" height="96" rx="14" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="502" y="188.8">Orange</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="502" y="233.2">#FF8310</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="488" y="276.8">Brand / Orange</tspan></text>
+</g>
+<g id="Brand-Blue" data-name="Brand Blue">
+<rect x="704" y="166" width="200" height="96" rx="14" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="718" y="188.8">Blue</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="718" y="233.2">#286CB5</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="704" y="276.8">Brand / Blue</tspan></text>
+</g>
+<g id="Brand-Sky" data-name="Brand Sky">
+<rect x="920" y="166" width="200" height="96" rx="14" fill="#D8E9FC"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="934" y="188.8">Sky</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#241A1F" text-anchor="start" opacity="0.85"><tspan x="934" y="233.2">#D8E9FC</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="920" y="276.8">Brand / Sky</tspan></text>
+</g>
+<g id="Brand-Teal" data-name="Brand Teal">
+<rect x="1136" y="166" width="200" height="96" rx="14" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="1150" y="188.8">Teal</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="1150" y="233.2">#2DC197</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1136" y="276.8">Brand / Teal</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="56" y="324">Role accents</tspan></text>
+<g id="Role-Child" data-name="Role Child">
+<rect x="56" y="340" width="246" height="86" rx="14" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="70" y="363.6">Child</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="70" y="389.2">#FF8310</tspan></text>
+</g>
+<g id="Role-Parent" data-name="Role Parent">
+<rect x="326" y="340" width="246" height="86" rx="14" fill="#54040F"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="340" y="363.6">Parent</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="340" y="389.2">#54040F</tspan></text>
+</g>
+<g id="Role-Robot-control" data-name="Role Robot control">
+<rect x="596" y="340" width="246" height="86" rx="14" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#0B1220" text-anchor="start"><tspan x="610" y="363.6">Robot control</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#0B1220" text-anchor="start" opacity="0.85"><tspan x="610" y="389.2">#22D3EE</tspan></text>
+</g>
+<g id="Role-Doctor" data-name="Role Doctor">
+<rect x="866" y="340" width="246" height="86" rx="14" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="880" y="363.6">Doctor</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#FFFFFF" text-anchor="start" opacity="0.85"><tspan x="880" y="389.2">#286CB5</tspan></text>
+</g>
+<g id="Role-Admin-Research" data-name="Role Admin / Research">
+<rect x="1136" y="340" width="246" height="86" rx="14" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#0B1220" text-anchor="start"><tspan x="1150" y="363.6">Admin / Research</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#0B1220" text-anchor="start" opacity="0.85"><tspan x="1150" y="389.2">#2DC197</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="56" y="468">Neutrals &amp; surfaces</tspan></text>
+<g id="Neutral-Ink" data-name="Neutral Ink">
+<rect x="56" y="484" width="200" height="56" rx="10" fill="#241A1F" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="56" y="554.8">Ink</tspan></text>
+</g>
+<g id="Neutral-Ink-soft" data-name="Neutral Ink soft">
+<rect x="272" y="484" width="200" height="56" rx="10" fill="#4A3B42" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="272" y="554.8">Ink soft</tspan></text>
+</g>
+<g id="Neutral-Muted" data-name="Neutral Muted">
+<rect x="488" y="484" width="200" height="56" rx="10" fill="#6B7280" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="488" y="554.8">Muted</tspan></text>
+</g>
+<g id="Neutral-Line" data-name="Neutral Line">
+<rect x="704" y="484" width="200" height="56" rx="10" fill="#E7EBF2" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="704" y="554.8">Line</tspan></text>
+</g>
+<g id="Neutral-Surface" data-name="Neutral Surface">
+<rect x="920" y="484" width="200" height="56" rx="10" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="920" y="554.8">Surface</tspan></text>
+</g>
+<g id="Neutral-White" data-name="Neutral White">
+<rect x="1136" y="484" width="200" height="56" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1136" y="554.8">White</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="56" y="608">Typography</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="56" y="627.2">Nunito for headings · Inter for body</tspan></text>
+<g id="Type-Display-40" data-name="Type Display / 40">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.6"><tspan x="56" y="662.8">Display / 40</tspan></text>
+<text font-family="Inter, sans-serif" font-size="40" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="240" y="684">Big adventures</tspan></text>
+</g>
+<g id="Type-Heading-28" data-name="Type Heading / 28">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.6"><tspan x="56" y="716.8">Heading / 28</tspan></text>
+<text font-family="Inter, sans-serif" font-size="28" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="240" y="728.4">Good morning, Dr. Hana</tspan></text>
+</g>
+<g id="Type-Section-20" data-name="Type Section / 20">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.6"><tspan x="56" y="759.8">Section / 20</tspan></text>
+<text font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="240" y="765">Today&#x27;s plan</tspan></text>
+</g>
+<g id="Type-Body-14" data-name="Type Body / 14">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.6"><tspan x="56" y="796.8">Body / 14</tspan></text>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="400" fill="#241A1F" text-anchor="start"><tspan x="240" y="797.2">Stay close to your child&#x27;s learning journey.</tspan></text>
+</g>
+<g id="Type-Caption-12" data-name="Type Caption / 12">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.6"><tspan x="56" y="824.8">Caption / 12</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#241A1F" text-anchor="start"><tspan x="240" y="823.6">Last updated 12 Nov 2026 · 10:24</tspan></text>
+</g>
+<g id="Type-Eyebrow-10" data-name="Type Eyebrow / 10">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.6"><tspan x="56" y="850.8">Eyebrow / 10</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="start" letter-spacing="1.4"><tspan x="240" y="848">PARENT SPACE</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="56" y="904">Components</tspan></text>
+<g id="Button" data-name="Button">
+<rect x="56" y="922" width="150" height="44" rx="12" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="131" y="945.92">Primary</tspan></text>
+<rect x="220" y="922" width="150" height="44" rx="12" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="295" y="945.92">Secondary</tspan></text>
+<rect x="384" y="922" width="150" height="44" rx="12" fill="#D8301E"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="459" y="945.92">Danger</tspan></text>
+<rect x="548" y="922" width="150" height="44" rx="12" fill="#EDF0F5"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#9AA3AF" text-anchor="middle"><tspan x="623" y="945.92">Disabled</tspan></text>
+</g>
+<g id="Input-sample" data-name="Input sample">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="740" y="912.8">Label</tspan></text>
+<rect x="740" y="922" width="300" height="44" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="756" y="944">Enter a value…</tspan></text>
+</g>
+<g id="Badge-samples" data-name="Badge samples">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="740" y="992.8">Badges</tspan></text>
+</g>
+<g id="Badge" data-name="Badge">
+<rect x="740" y="1002" width="70" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="775" y="1015.8">Active</tspan></text>
+<rect x="818" y="1002" width="70" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="853" y="1015.8">Draft</tspan></text>
+<rect x="896" y="1002" width="70" height="24" rx="12" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="931" y="1015.8">Shared</tspan></text>
+<rect x="974" y="1002" width="70" height="24" rx="12" fill="#FDECEA"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#D8301E" text-anchor="middle"><tspan x="1009" y="1015.8">Review</tspan></text>
+</g>
+<g id="Card-sample" data-name="Card sample">
+<rect x="1080" y="906" width="304" height="130" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1098" y="929.2">Assigned children</tspan></text>
+<text font-family="Inter, sans-serif" font-size="28" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1098" y="962.4">24</tspan></text>
+<circle cx="1340" cy="924" r="14" fill="#F1F6FE"/>
+<circle cx="1338.32" cy="921.76" r="1.82" fill="none" stroke="#286CB5" stroke-width="1.4"/>
+<path d="M 1.68 11.20 Q 1.96 8.12 5.32 8.12 Q 8.68 8.12 8.96 11.20" transform="translate(1333 917)" fill="none" stroke="#286CB5" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1342.52" cy="921.2" r="1.54" fill="none" stroke="#286CB5" stroke-width="1.4"/>
+<path d="M 8.68 7.84 Q 12.60 8.12 12.60 11.20" transform="translate(1333 917)" fill="none" stroke="#286CB5" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="1098" y="1000.8">+3 this week</tspan></text>
+</g>
+<g id="Nav-sample" data-name="Nav sample">
+<rect x="56" y="1002" width="220" height="44" rx="12" fill="#F1F6FE"/>
+<rect x="56" y="1014" width="3" height="20" rx="1.5" fill="#286CB5"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(74 1012)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="106" y="1018.8">Overview</tspan></text>
+</g>
+<g id="Toggle-sample" data-name="Toggle sample">
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="300" y="1013.2">Obstacle stop</tspan></text>
+<rect x="300" y="1028" width="40" height="22" rx="11" fill="#2DC197"/>
+<circle cx="328" cy="1039" r="8" fill="#FFFFFF"/>
+</g>
+<g id="Progress-sample" data-name="Progress sample">
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="56" y="1080.8">Progress</tspan></text>
+<rect x="56" y="1092" width="240" height="8" rx="4" fill="#E7EBF2"/>
+<rect x="56" y="1092" width="168" height="8" rx="4" fill="#FF8310"/>
+</g>
+<g id="Footer" data-name="Footer">
+<rect x="56" y="1148" width="1328" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="56" y="1169.2">Use these tokens in Figma styles; every screen frame is named and fully editable.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="1384" y="1169.2">figma.com · spark-desktop</tspan></text>
+</g>
+</svg>

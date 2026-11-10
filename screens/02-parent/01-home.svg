@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+<title>Parent dashboard</title>
+<desc>Child switcher, weekly summary, activity and practice nudge.</desc>
+<rect id="Background" x="0" y="0" width="390" height="844" fill="#FDF7F2"/>
+<g id="Status-bar" data-name="Status bar">
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="22" y="23.6">9:41</tspan></text>
+<rect x="302.4" y="24.3" width="1.8" height="3" rx="1" fill="#241A1F"/>
+<rect x="305.1" y="22.5" width="1.8" height="4.8" rx="1" fill="#241A1F"/>
+<rect x="307.8" y="20.7" width="1.8" height="6.6" rx="1" fill="#241A1F"/>
+<rect x="310.5" y="18.9" width="1.8" height="8.4" rx="1" fill="#241A1F"/>
+<path d="M 2.88 7.14 C 3.72 5.35 5.52 4.20 7.50 4.20 C 9.48 4.20 11.28 5.35 12.12 7.14" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.80 7.41 C 5.41 6.53 6.42 6.00 7.50 6.00 C 8.58 6.00 9.59 6.53 10.20 7.41" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329.5" cy="26.4" r="0.53" fill="#241A1F"/>
+<rect x="347.8" y="19.4" width="12.96" height="7.2" rx="0.9" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<rect x="348.88" y="20.48" width="7.56" height="5.04" rx="0.36" fill="#241A1F"/>
+<rect x="361.12" y="21.56" width="1.08" height="2.88" rx="0.36" fill="#241A1F"/>
+</g>
+<g id="Parent-header" data-name="Parent header">
+<circle cx="44" cy="76" r="20" fill="#54040F"/>
+<polygon points="45.2,67.6 38.4,77.2 43.2,77.2 41.2,84.4 49.6,74 44.4,74" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="72" y="78.4">SPARK</tspan></text>
+<circle cx="350" cy="76" r="20" fill="#FFFFFF"/>
+<path d="M 5.60 13.20 L 5.60 8.80 M 5.60 8.80 C 5.60 6.37 7.57 4.40 10.00 4.40 C 12.43 4.40 14.40 6.37 14.40 8.80 L 14.40 13.20 Z" transform="translate(340 66)" fill="none" stroke="#241A1F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.00 13.20 L 16.00 13.20" transform="translate(340 66)" fill="none" stroke="#241A1F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="350" cy="81.6" r="0.8" fill="#241A1F"/>
+<circle cx="364" cy="62" r="4" fill="#D8301E"/>
+</g>
+<text font-family="Inter, sans-serif" font-size="22" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="20" y="125.6">Good evening, Omar</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="20" y="149.6">Here&#x27;s how Salma&#x27;s week is going.</tspan></text>
+<g id="Child-switcher" data-name="Child switcher">
+<rect x="20" y="170" width="350" height="74" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="207" r="22" fill="#FFDB99"/>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#54040F" text-anchor="middle"><tspan x="54" y="208">S</tspan></text>
+<text font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="88" y="200">Salma</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="88" y="218.4">Age 7 · Grade 2</tspan></text>
+<rect x="248" y="196" width="58" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="277" y="209.8">Linked</tspan></text>
+<path d="M 5.76 3.20 L 10.24 8.00 L 5.76 12.80" transform="translate(338 200)" fill="none" stroke="#9AA3AF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Weekly-card" data-name="Weekly card">
+<rect x="20" y="262" width="350" height="146" rx="24" fill="#54040F"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#FFDB99" text-anchor="start" letter-spacing="1.4"><tspan x="40" y="287.6">THIS WEEK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="40" y="321.2">4</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#F3C9CE" text-anchor="start"><tspan x="40" y="343.6">Sessions</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="156" y="321.2">82%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#F3C9CE" text-anchor="start"><tspan x="156" y="343.6">Avg score</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="272" y="321.2">12</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#F3C9CE" text-anchor="start"><tspan x="272" y="343.6">Stars</tspan></text>
+<rect x="142" y="300" width="1" height="54" rx="0" fill="#7A2832"/>
+<rect x="258" y="300" width="1" height="54" rx="0" fill="#7A2832"/>
+<rect x="40" y="362" width="119.2" height="24" rx="12" fill="#6B1520"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFDB99" text-anchor="middle"><tspan x="99.6" y="375.8">+8% vs last week</tspan></text>
+</g>
+<g id="Activity" data-name="Activity">
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="20" y="440.8">Latest activity</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="370" y="438.8">See all</tspan></text>
+</g>
+<g id="Activity-1" data-name="Activity 1">
+<rect x="20" y="452" width="350" height="62" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="483" r="18" fill="#FFF3E2"/>
+<polygon points="55.2,474.6 48.4,484.2 53.2,484.2 51.2,491.4 59.6,481 54.4,481" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="84" y="473.4">IQ Assessment</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="84" y="492.4">12 Nov · 20 min</tspan></text>
+<rect x="290" y="472" width="48" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="314" y="485.8">82%</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(340 475)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Activity-2" data-name="Activity 2">
+<rect x="20" y="522" width="350" height="62" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="553" r="18" fill="#F1F6FE"/>
+<path d="M 3.20 7.20 Q 2.00 15.60 5.20 15.60 L 7.20 12.80 L 12.80 12.80 L 14.80 15.60 Q 18.00 15.60 16.80 7.20 L 13.20 5.20 L 6.80 5.20 Z" transform="translate(44 543)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.40 9.00 L 8.80 9.00 M 7.60 7.80 L 7.60 10.20" transform="translate(44 543)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="57.2" cy="551.4" r="0.7" fill="#286CB5"/>
+<circle cx="58.8" cy="553" r="0.7" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="84" y="543.4">Memory Match</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="84" y="562.4">10 Nov · 8 min</tspan></text>
+<rect x="290" y="542" width="48" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="314" y="555.8">90%</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(340 545)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Activity-3" data-name="Activity 3">
+<rect x="20" y="592" width="350" height="62" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="623" r="18" fill="#E6F8F2"/>
+<path d="M 3.20 4.00 L 16.80 4.00 L 16.80 16.40 L 10.00 15.20 L 3.20 16.40 Z" transform="translate(44 613)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.00 4.00 L 10.00 15.20" transform="translate(44 613)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="84" y="613.4">Weekly report</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="84" y="632.4">8 Nov · PDF</tspan></text>
+<rect x="290" y="612" width="48" height="24" rx="12" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="314" y="625.8">New</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(340 615)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Nudge-card" data-name="Nudge card">
+<rect x="20" y="668" width="350" height="84" rx="18" fill="#FFF3E2" stroke="#FFDB99" stroke-width="1"/>
+<circle cx="46" cy="710" r="16" fill="#FFFFFF"/>
+<path d="M 9.00 2.52 L 16.20 15.12 L 1.80 15.12 Z" transform="translate(37 701)" fill="none" stroke="#FF8310" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 9.00 6.84 L 9.00 10.80" transform="translate(37 701)" fill="none" stroke="#FF8310" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="46" cy="713.78" r="0.54" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="74" y="692.4">No practice for 2 days</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="74" y="712.4">A gentle nudge can help.</tspan></text>
+<rect x="248" y="694" width="104" height="32" rx="16" fill="#54040F"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="300" y="711.75">Send nudge</tspan></text>
+</g>
+<g id="Bottom-navigation" data-name="Bottom navigation">
+<rect x="0" y="772" width="390" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="772" width="390" height="1" rx="0" fill="#E7EBF2"/>
+<rect x="21" y="780" width="56" height="32" rx="16" fill="#FFF3E2"/>
+<path d="M 3.52 10.34 L 11.00 3.96 L 18.48 10.34 L 18.48 18.04 L 13.20 18.04 L 13.20 13.20 L 8.80 13.20 L 8.80 18.04 L 3.52 18.04 Z" transform="translate(38 786)" fill="none" stroke="#54040F" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#54040F" text-anchor="middle"><tspan x="49" y="824">Home</tspan></text>
+<path d="M 3.52 7.92 Q 2.20 17.16 5.72 17.16 L 7.92 14.08 L 14.08 14.08 L 16.28 17.16 Q 19.80 17.16 18.48 7.92 L 14.52 5.72 L 7.48 5.72 Z" transform="translate(135 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.04 9.90 L 9.68 9.90 M 8.36 8.58 L 8.36 11.22" transform="translate(135 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="149.52" cy="795.24" r="0.77" fill="#6B7280"/>
+<circle cx="151.28" cy="797" r="0.77" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="146" y="824">Games</tspan></text>
+<rect x="236.4" y="797" width="2.86" height="6.6" rx="2" fill="#6B7280"/>
+<rect x="241.46" y="793.48" width="2.86" height="10.12" rx="2" fill="#6B7280"/>
+<rect x="246.52" y="789.96" width="2.86" height="13.64" rx="2" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="243" y="824">Report</tspan></text>
+<circle cx="340" cy="793.7" r="3.52" fill="none" stroke="#6B7280" stroke-width="1.98"/>
+<path d="M 4.40 18.04 Q 4.84 12.76 11.00 12.76 Q 17.16 12.76 17.60 18.04" transform="translate(329 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="340" y="824">Me</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+<title>Home</title>
+<desc>Today&#x27;s mission, plan and weekly streak.</desc>
+<rect id="Background" x="0" y="0" width="390" height="844" fill="#FFF8EE"/>
+<g id="Status-bar" data-name="Status bar">
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="22" y="23.6">9:41</tspan></text>
+<rect x="302.4" y="24.3" width="1.8" height="3" rx="1" fill="#241A1F"/>
+<rect x="305.1" y="22.5" width="1.8" height="4.8" rx="1" fill="#241A1F"/>
+<rect x="307.8" y="20.7" width="1.8" height="6.6" rx="1" fill="#241A1F"/>
+<rect x="310.5" y="18.9" width="1.8" height="8.4" rx="1" fill="#241A1F"/>
+<path d="M 2.88 7.14 C 3.72 5.35 5.52 4.20 7.50 4.20 C 9.48 4.20 11.28 5.35 12.12 7.14" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.80 7.41 C 5.41 6.53 6.42 6.00 7.50 6.00 C 8.58 6.00 9.59 6.53 10.20 7.41" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329.5" cy="26.4" r="0.53" fill="#241A1F"/>
+<rect x="347.8" y="19.4" width="12.96" height="7.2" rx="0.9" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<rect x="348.88" y="20.48" width="7.56" height="5.04" rx="0.36" fill="#241A1F"/>
+<rect x="361.12" y="21.56" width="1.08" height="2.88" rx="0.36" fill="#241A1F"/>
+</g>
+<g id="Child-header" data-name="Child header">
+<circle cx="44" cy="76" r="20" fill="#FF8310"/>
+<polygon points="45.2,67.6 38.4,77.2 43.2,77.2 41.2,84.4 49.6,74 44.4,74" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="72" y="78.4">SPARK</tspan></text>
+<circle cx="350" cy="76" r="20" fill="#FFFFFF"/>
+<path d="M 5.60 13.20 L 5.60 8.80 M 5.60 8.80 C 5.60 6.37 7.57 4.40 10.00 4.40 C 12.43 4.40 14.40 6.37 14.40 8.80 L 14.40 13.20 Z" transform="translate(340 66)" fill="none" stroke="#241A1F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.00 13.20 L 16.00 13.20" transform="translate(340 66)" fill="none" stroke="#241A1F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="350" cy="81.6" r="0.8" fill="#241A1F"/>
+</g>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="20" y="131.2">Hi, Salma!</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="20" y="156">Ready for today&#x27;s adventure?</tspan></text>
+<g id="Hero-card" data-name="Hero card">
+<rect x="20" y="180" width="350" height="188" rx="24" fill="#FF8310"/>
+<circle cx="336" cy="212" r="46" fill="#FFA64D"/>
+<circle cx="306" cy="344" r="70" fill="#FF9A3D" opacity="0.55"/>
+<rect x="36" y="198" width="196" height="58" rx="14" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="50" y="217.6">Ready for a new mission?</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="50" y="236.4">Earn 3 stars today.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="36" y="287.6">Pattern Hunt</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#FFF4E6" text-anchor="start"><tspan x="36" y="309.2">Find the missing shape</tspan></text>
+<circle cx="300" cy="217.84" r="4.32" fill="#FFFFFF"/>
+<path d="M 0 0 L 0 5.28" transform="translate(300 222.16)" fill="none" stroke="#241A1F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="270.24" y="227.44" width="59.52" height="40.32" rx="15.36" fill="#FFFFFF" stroke="#241A1F" stroke-width="1.73"/>
+<rect x="276" y="233.2" width="48" height="28.8" rx="10.56" fill="#EAF4FF"/>
+<circle cx="289.44" cy="244.72" r="4.32" fill="#241A1F"/>
+<circle cx="310.56" cy="244.72" r="4.32" fill="#241A1F"/>
+<circle cx="290.59" cy="243.57" r="1.15" fill="#FFFFFF"/>
+<circle cx="311.71" cy="243.57" r="1.15" fill="#FFFFFF"/>
+<path d="M 0 0 Q 6.72 5.76 13.44 0" transform="translate(293.28 253.36)" fill="none" stroke="#241A1F" stroke-width="2.11" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="276" y="269.68" width="48" height="26.88" rx="9.6" fill="#FFFFFF"/>
+<rect x="288.48" y="275.44" width="23.04" height="15.36" rx="6.72" fill="#FFFFFF" opacity="0.9"/>
+<circle cx="300" cy="283.12" r="3.36" fill="#FFFFFF"/>
+<rect x="267.36" y="271.6" width="8.64" height="19.2" rx="4.32" fill="#FFFFFF"/>
+<rect x="324" y="271.6" width="8.64" height="19.2" rx="4.32" fill="#FFFFFF"/>
+<rect x="280.8" y="296.56" width="15.36" height="7.68" rx="3.84" fill="#241A1F"/>
+<rect x="303.84" y="296.56" width="15.36" height="7.68" rx="3.84" fill="#241A1F"/>
+<rect x="36" y="322" width="134" height="36" rx="18" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="103" y="342.01">Start mission</tspan></text>
+</g>
+<g id="Today-plan" data-name="Today plan">
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="20" y="404.8">Today&#x27;s plan</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="370" y="402.8">3 activities</tspan></text>
+</g>
+<g id="Plan-card-1" data-name="Plan card 1">
+<rect x="20" y="420" width="350" height="62" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="451" r="18" fill="#FFF3E2"/>
+<polygon points="55.2,442.6 48.4,452.2 53.2,452.2 51.2,459.4 59.6,449 54.4,449" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="84" y="441.8">IQ Adventure</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="84" y="460.4">10 min · +2 stars</tspan></text>
+<rect x="296" y="439" width="32.4" height="24" rx="12" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="312.2" y="452.8">+2</tspan></text>
+</g>
+<g id="Plan-card-2" data-name="Plan card 2">
+<rect x="20" y="492" width="350" height="62" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="523" r="18" fill="#F1F6FE"/>
+<path d="M 3.20 7.20 Q 2.00 15.60 5.20 15.60 L 7.20 12.80 L 12.80 12.80 L 14.80 15.60 Q 18.00 15.60 16.80 7.20 L 13.20 5.20 L 6.80 5.20 Z" transform="translate(44 513)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.40 9.00 L 8.80 9.00 M 7.60 7.80 L 7.60 10.20" transform="translate(44 513)" fill="none" stroke="#286CB5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="57.2" cy="521.4" r="0.7" fill="#286CB5"/>
+<circle cx="58.8" cy="523" r="0.7" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="84" y="513.8">Memory Match</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="84" y="532.4">5 min · +2 stars</tspan></text>
+<path d="M 5.76 3.20 L 10.24 8.00 L 5.76 12.80" transform="translate(338 514)" fill="none" stroke="#9AA3AF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Plan-card-3" data-name="Plan card 3">
+<rect x="20" y="564" width="350" height="62" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="54" cy="595" r="18" fill="#F3F4F6"/>
+<path d="M 3.20 4.00 L 16.80 4.00 L 16.80 16.40 L 10.00 15.20 L 3.20 16.40 Z" transform="translate(44 585)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.00 4.00 L 10.00 15.20" transform="translate(44 585)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="84" y="585.8">Story &amp; Chat</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="84" y="604.4">Unlocks at 4:00 PM</tspan></text>
+<rect x="335.96" y="593.28" width="10.08" height="6.84" rx="1.26" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 6.12 8.28 L 6.12 7.20 M 6.12 7.20 C 6.12 5.61 7.41 4.32 9.00 4.32 C 10.59 4.32 11.88 5.61 11.88 7.20 L 11.88 8.28" transform="translate(332 585)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Week-strip" data-name="Week strip">
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="20" y="662.8">This week</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="370" y="660.8">8 stars</tspan></text>
+<rect x="20" y="674" width="350" height="82" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FF8310" text-anchor="end"><tspan x="370" y="658.4">8 stars</tspan></text>
+<circle cx="50" cy="700" r="15" fill="#FF8310"/>
+<path d="M 2.52 7.42 L 5.60 10.50 L 11.48 3.78" transform="translate(43 693)" fill="none" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="50" y="732">Mo</tspan></text>
+<circle cx="120" cy="700" r="15" fill="#FF8310"/>
+<path d="M 2.52 7.42 L 5.60 10.50 L 11.48 3.78" transform="translate(113 693)" fill="none" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="120" y="732">Tu</tspan></text>
+<circle cx="190" cy="700" r="15" fill="#FF8310"/>
+<path d="M 2.52 7.42 L 5.60 10.50 L 11.48 3.78" transform="translate(183 693)" fill="none" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="190" y="732">We</tspan></text>
+<circle cx="260" cy="700" r="15" fill="#FFFFFF" stroke="#FF8310" stroke-width="1.6"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="260" y="732">Th</tspan></text>
+<circle cx="330" cy="700" r="15" fill="#F3F4F6"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="330" y="732">Fr</tspan></text>
+</g>
+<g id="Bottom-navigation" data-name="Bottom navigation">
+<rect x="0" y="772" width="390" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="772" width="390" height="1" rx="0" fill="#E7EBF2"/>
+<rect x="21" y="780" width="56" height="32" rx="16" fill="#FFF3E2"/>
+<path d="M 3.52 10.34 L 11.00 3.96 L 18.48 10.34 L 18.48 18.04 L 13.20 18.04 L 13.20 13.20 L 8.80 13.20 L 8.80 18.04 L 3.52 18.04 Z" transform="translate(38 786)" fill="none" stroke="#FF8310" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="49" y="824">Home</tspan></text>
+<path d="M 3.52 7.92 Q 2.20 17.16 5.72 17.16 L 7.92 14.08 L 14.08 14.08 L 16.28 17.16 Q 19.80 17.16 18.48 7.92 L 14.52 5.72 L 7.48 5.72 Z" transform="translate(135 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.04 9.90 L 9.68 9.90 M 8.36 8.58 L 8.36 11.22" transform="translate(135 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="149.52" cy="795.24" r="0.77" fill="#6B7280"/>
+<circle cx="151.28" cy="797" r="0.77" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="146" y="824">Games</tspan></text>
+<rect x="236.4" y="797" width="2.86" height="6.6" rx="2" fill="#6B7280"/>
+<rect x="241.46" y="793.48" width="2.86" height="10.12" rx="2" fill="#6B7280"/>
+<rect x="246.52" y="789.96" width="2.86" height="13.64" rx="2" fill="#6B7280"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="243" y="824">Report</tspan></text>
+<circle cx="340" cy="793.7" r="3.52" fill="none" stroke="#6B7280" stroke-width="1.98"/>
+<path d="M 4.40 18.04 Q 4.84 12.76 11.00 12.76 Q 17.16 12.76 17.60 18.04" transform="translate(329 786)" fill="none" stroke="#6B7280" stroke-width="1.98" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="340" y="824">Me</tspan></text>
+</g>
+</svg>

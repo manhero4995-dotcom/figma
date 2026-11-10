@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="840" viewBox="0 0 1180 840" fill="none">
+<title>Control room</title>
+<desc>Live camera, joystick, speed, arm and emergency stop.</desc>
+<rect id="Background" x="0" y="0" width="1180" height="840" fill="#0B1220"/>
+<g id="Robot-top-bar" data-name="Robot top bar">
+<rect x="0" y="0" width="1180" height="64" rx="0" fill="#121C2E"/>
+<rect x="0" y="63" width="1180" height="1" rx="0" fill="#243349"/>
+<circle cx="32" cy="32" r="16" fill="#22D3EE"/>
+<polygon points="32.96,25.28 27.52,32.96 31.36,32.96 29.76,38.72 36.48,30.4 32.32,30.4" fill="#0B1220"/>
+<text font-family="Inter, sans-serif" font-size="12.5" font-weight="800" fill="#E8F1FF" text-anchor="start" letter-spacing="1.2"><tspan x="56" y="28">SPARK CONTROL</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.4"><tspan x="56" y="44.4">ROBOT OPERATOR</tspan></text>
+<rect x="380" y="18" width="112" height="28" rx="14" fill="#0F2A27"/>
+<circle cx="396" cy="32" r="4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#2DC197" text-anchor="start"><tspan x="408" y="31.6">Connected</tspan></text>
+<rect x="504" y="18" width="74" height="28" rx="14" fill="#17243A"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#8FA3BF" text-anchor="middle"><tspan x="541" y="31.6">24 ms</tspan></text>
+<rect x="590" y="18" width="66" height="28" rx="14" fill="#17243A"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#8FA3BF" text-anchor="middle"><tspan x="623" y="31.6">UDP</tspan></text>
+<rect x="832" y="28" width="14.4" height="8" rx="1" fill="none" stroke="#2DC197" stroke-width="1.8"/>
+<rect x="833.2" y="29.2" width="8.4" height="5.6" rx="0.4" fill="#2DC197"/>
+<rect x="846.8" y="30.4" width="1.2" height="3.2" rx="0.4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="start"><tspan x="856" y="31">78%</tspan></text>
+<circle cx="931" cy="31" r="6.48" fill="none" stroke="#8FA3BF" stroke-width="1.62"/>
+<path d="M 9.00 4.68 L 9.00 9.36 L 12.06 11.16" transform="translate(922 22)" fill="none" stroke="#8FA3BF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#8FA3BF" text-anchor="start"><tspan x="944" y="31">14:32</tspan></text>
+<rect x="1014" y="14" width="146" height="36" rx="10" fill="#D8301E"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1087" y="33.66">EMERGENCY STOP</tspan></text>
+</g>
+<g id="Camera-viewport" data-name="Camera viewport">
+<rect x="20" y="84" width="740" height="460" rx="18" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<path d="M 20 300 L 760 300" transform="translate(0 0)" fill="none" stroke="#1B2A42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 20 544" transform="translate(0 0)" fill="none" stroke="#1B2A42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 180 544" transform="translate(0 0)" fill="none" stroke="#1B2A42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 390 544" transform="translate(0 0)" fill="none" stroke="#1B2A42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 600 544" transform="translate(0 0)" fill="none" stroke="#1B2A42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 760 544" transform="translate(0 0)" fill="none" stroke="#1B2A42" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 120 84" transform="translate(0 0)" fill="none" stroke="#16233A" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 300 L 660 84" transform="translate(0 0)" fill="none" stroke="#16233A" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="430" width="740" height="114" rx="0" fill="#0F1C30" opacity="0.55"/>
+<rect x="318" y="420" width="58" height="40" rx="6" fill="#C94B3B" opacity="0.85"/>
+<rect x="392" y="436" width="52" height="28" rx="5" fill="#3D7DC4" opacity="0.85"/>
+<rect x="286" y="442" width="30" height="20" rx="4" fill="#D9A23B" opacity="0.85"/>
+<circle cx="390" cy="314" r="22" fill="none" stroke="#22D3EE" stroke-width="1.4"/>
+<circle cx="390" cy="314" r="3" fill="#22D3EE"/>
+<path d="M 350 314 L 372 314 M 408 314 L 430 314" transform="translate(0 0)" fill="none" stroke="#22D3EE" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 390 274 L 390 296 M 390 332 L 390 354" transform="translate(0 0)" fill="none" stroke="#22D3EE" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="36" y="100" width="58" height="22" rx="11" fill="#D8301E"/>
+<circle cx="48" cy="111" r="3" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#FFFFFF" text-anchor="start" letter-spacing="0.8"><tspan x="56" y="111.4">LIVE</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.1"><tspan x="36" y="519.2">CAM 01 · FRONT</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#8FA3BF" text-anchor="end"><tspan x="610" y="519.2">14:32:08.240</tspan></text>
+<circle cx="646" cy="506" r="16" fill="#17243A"/>
+<rect x="641.96" y="503.92" width="10.08" height="6.72" rx="1.12" fill="none" stroke="#E8F1FF" stroke-width="1.4"/>
+<circle cx="647" cy="507.28" r="1.82" fill="none" stroke="#E8F1FF" stroke-width="1.4"/>
+<path d="M 5.04 3.92 L 5.88 2.52 L 8.12 2.52 L 8.96 3.92" transform="translate(640 500)" fill="none" stroke="#E8F1FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="682" cy="506" r="16" fill="#17243A"/>
+<polygon points="680.2,502.8 687.48,507 680.2,511.2" fill="#D8301E"/>
+<circle cx="718" cy="506" r="16" fill="#17243A"/>
+<rect x="717.6" y="502.52" width="2.8" height="4.76" rx="1.4" fill="none" stroke="#E8F1FF" stroke-width="1.4"/>
+<path d="M 3.92 6.44 Q 4.20 10.08 7.00 10.08 Q 9.80 10.08 10.08 6.44" transform="translate(712 500)" fill="none" stroke="#E8F1FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.00 10.08 L 7.00 11.76" transform="translate(712 500)" fill="none" stroke="#E8F1FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Manual-control" data-name="Manual control">
+<rect x="780" y="84" width="380" height="460" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#22D3EE" text-anchor="start" letter-spacing="1.2"><tspan x="800" y="110">MANUAL CONTROL</tspan></text>
+<rect x="1046" y="98" width="57.2" height="24" rx="12" fill="#0F2A33"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#22D3EE" text-anchor="middle"><tspan x="1074.6" y="111.8">Manual</tspan></text>
+<circle cx="970" cy="270" r="86" fill="#0D1727" stroke="#243349" stroke-width="1.5"/>
+<circle cx="970" cy="270" r="62" fill="none" stroke="#1E304A" stroke-width="1"/>
+<circle cx="970" cy="270" r="31" fill="#22D3EE" stroke="#7FE9F8" stroke-width="2"/>
+<circle cx="970" cy="270" r="4" fill="#0B1220"/>
+<path d="M 3.52 6.08 L 8.00 10.56 L 12.48 6.08" transform="translate(962 184)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 5.76 3.20 L 10.24 8.00 L 5.76 12.80" transform="translate(1074 262)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.24 3.20 L 5.76 8.00 L 10.24 12.80" transform="translate(850 262)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.52 6.08 L 8.00 10.56 L 12.48 6.08" transform="translate(962 346)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="800" y="375.6">Drag the stick or use the keyboard.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1"><tspan x="800" y="401.2">SPEED</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="end"><tspan x="1140" y="402">0.4 m/s</tspan></text>
+<rect x="800" y="414" width="340" height="6" rx="3" fill="#1E304A"/>
+<rect x="800" y="414" width="136" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="936" cy="417" r="8" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="800" y="434.4">0.0</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#8FA3BF" text-anchor="end"><tspan x="1140" y="434.4">1.0</tspan></text>
+<rect x="800" y="452" width="160" height="40" rx="10" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="880" y="473.84">Return home</tspan></text>
+<rect x="980" y="452" width="160" height="40" rx="10" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="1060" y="473.84">Calibrate</tspan></text>
+<rect x="800" y="504" width="340" height="34" rx="9" fill="#D8301E"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="970" y="522.66">STOP ROBOT</tspan></text>
+</g>
+<g id="Telemetry-strip" data-name="Telemetry strip">
+<rect x="20" y="564" width="740" height="236" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="40" y="587.2">LIVE TELEMETRY</tspan></text>
+</g>
+<g id="Metric-1" data-name="Metric 1">
+<rect x="40" y="600" width="160" height="74" rx="12" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<rect x="55.6" y="616.8" width="11.52" height="6.4" rx="0.8" fill="none" stroke="#2DC197" stroke-width="1.44"/>
+<rect x="56.56" y="617.76" width="6.72" height="4.48" rx="0.32" fill="#2DC197"/>
+<rect x="67.44" y="618.72" width="0.96" height="2.56" rx="0.32" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="78" y="618.4">BATTERY</tspan></text>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="54" y="650.4">78%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="54" y="666.8">Nominal</tspan></text>
+</g>
+<g id="Metric-2" data-name="Metric 2">
+<rect x="215" y="600" width="160" height="74" rx="12" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<path d="M 2.56 11.20 C 2.56 8.20 5.00 5.76 8.00 5.76 C 11.00 5.76 13.44 8.20 13.44 11.20" transform="translate(229 612)" fill="none" stroke="#22D3EE" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 8.00 11.20 L 10.56 6.72" transform="translate(229 612)" fill="none" stroke="#22D3EE" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="237" cy="623.2" r="0.56" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="253" y="618.4">DISTANCE</tspan></text>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="229" y="650.4">1.2 m</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#22D3EE" text-anchor="start"><tspan x="229" y="666.8">Nominal</tspan></text>
+</g>
+<g id="Metric-3" data-name="Metric 3">
+<rect x="390" y="600" width="160" height="74" rx="12" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<rect x="408.16" y="616.16" width="7.68" height="7.68" rx="0.8" fill="none" stroke="#FEB612" stroke-width="1.44"/>
+<rect x="410.4" y="618.4" width="3.2" height="3.2" rx="0.48" fill="none" stroke="#FEB612" stroke-width="1.44"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="428" y="618.4">TILT</tspan></text>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="404" y="650.4">3.2°</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#FEB612" text-anchor="start"><tspan x="404" y="666.8">Nominal</tspan></text>
+</g>
+<g id="Metric-4" data-name="Metric 4">
+<rect x="565" y="600" width="160" height="74" rx="12" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<rect x="581.56" y="621.92" width="1.92" height="3.2" rx="1" fill="#8A38F5"/>
+<rect x="584.44" y="620" width="1.92" height="5.12" rx="1" fill="#8A38F5"/>
+<rect x="587.32" y="618.08" width="1.92" height="7.04" rx="1" fill="#8A38F5"/>
+<rect x="590.2" y="616.16" width="1.92" height="8.96" rx="1" fill="#8A38F5"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="603" y="618.4">SIGNAL</tspan></text>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="579" y="650.4">-52 dBm</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8A38F5" text-anchor="start"><tspan x="579" y="666.8">Nominal</tspan></text>
+</g>
+<g id="Telemetry-strip-2" data-name="Telemetry strip">
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="40" y="696.4">EVENT LOG</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="714.8">14:32:08</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#2DC197" text-anchor="start"><tspan x="118" y="714.8">INFO</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#E8F1FF" text-anchor="start"><tspan x="172" y="714.8">Session started · S-1042</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="736.8">14:32:12</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#2DC197" text-anchor="start"><tspan x="118" y="736.8">INFO</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#E8F1FF" text-anchor="start"><tspan x="172" y="736.8">Robot connected over UDP</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="758.8">14:32:26</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#FEB612" text-anchor="start"><tspan x="118" y="758.8">WARN</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#E8F1FF" text-anchor="start"><tspan x="172" y="758.8">Obstacle 0.4 m ahead · auto slow</tspan></text>
+</g>
+<g id="Arm-controls" data-name="Arm controls">
+<rect x="780" y="564" width="380" height="236" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="800" y="587.2">ARM &amp; GRIPPER</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="800" y="602.8">Press and hold to move.</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="800" y="614" width="155" height="40" rx="9" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<path d="M 3.96 11.16 L 9.00 6.12 L 14.04 11.16" transform="translate(818 625)" fill="none" stroke="#E8F1FF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="892.5" y="635.75">Raise</tspan></text>
+<rect x="975" y="614" width="155" height="40" rx="9" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<path d="M 3.96 6.84 L 9.00 11.88 L 14.04 6.84" transform="translate(993 625)" fill="none" stroke="#E8F1FF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="1067.5" y="635.75">Lower</tspan></text>
+<rect x="800" y="664" width="155" height="40" rx="9" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<path d="M 3.60 9.00 L 14.40 9.00" transform="translate(818 675)" fill="none" stroke="#E8F1FF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 9.00 3.60 L 9.00 14.40" transform="translate(818 675)" fill="none" stroke="#E8F1FF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="892.5" y="685.75">Open</tspan></text>
+<rect x="975" y="664" width="155" height="40" rx="9" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<path d="M 4.50 4.50 L 13.50 13.50" transform="translate(993 675)" fill="none" stroke="#E8F1FF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 13.50 4.50 L 4.50 13.50" transform="translate(993 675)" fill="none" stroke="#E8F1FF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="1067.5" y="685.75">Close</tspan></text>
+</g>
+<g id="Arm-controls-2" data-name="Arm controls">
+<rect x="800" y="730" width="340" height="40" rx="9" fill="#17243A" stroke="#22D3EE" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#22D3EE" text-anchor="middle"><tspan x="970" y="751.75">Calibrate arm</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="20" y="818.8">Mode Manual · Speed 0.4 m/s · Link UDP · Firmware v0.1-sim</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="end"><tspan x="1160" y="818.8">Session S-1042 · 08:24</tspan></text>
+</svg>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="840" viewBox="0 0 1180 840" fill="none">
+<title>Session &amp; commands</title>
+<desc>Command console, session checklist, activity and safety.</desc>
+<rect id="Background" x="0" y="0" width="1180" height="840" fill="#0B1220"/>
+<g id="Robot-top-bar" data-name="Robot top bar">
+<rect x="0" y="0" width="1180" height="64" rx="0" fill="#121C2E"/>
+<rect x="0" y="63" width="1180" height="1" rx="0" fill="#243349"/>
+<circle cx="32" cy="32" r="16" fill="#22D3EE"/>
+<polygon points="32.96,25.28 27.52,32.96 31.36,32.96 29.76,38.72 36.48,30.4 32.32,30.4" fill="#0B1220"/>
+<text font-family="Inter, sans-serif" font-size="12.5" font-weight="800" fill="#E8F1FF" text-anchor="start" letter-spacing="1.2"><tspan x="56" y="28">SPARK CONTROL</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.4"><tspan x="56" y="44.4">ROBOT OPERATOR</tspan></text>
+<rect x="380" y="18" width="112" height="28" rx="14" fill="#0F2A27"/>
+<circle cx="396" cy="32" r="4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#2DC197" text-anchor="start"><tspan x="408" y="31.6">Connected</tspan></text>
+<rect x="504" y="18" width="74" height="28" rx="14" fill="#17243A"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#8FA3BF" text-anchor="middle"><tspan x="541" y="31.6">24 ms</tspan></text>
+<rect x="590" y="18" width="66" height="28" rx="14" fill="#17243A"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#8FA3BF" text-anchor="middle"><tspan x="623" y="31.6">UDP</tspan></text>
+<rect x="832" y="28" width="14.4" height="8" rx="1" fill="none" stroke="#2DC197" stroke-width="1.8"/>
+<rect x="833.2" y="29.2" width="8.4" height="5.6" rx="0.4" fill="#2DC197"/>
+<rect x="846.8" y="30.4" width="1.2" height="3.2" rx="0.4" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="start"><tspan x="856" y="31">78%</tspan></text>
+<circle cx="931" cy="31" r="6.48" fill="none" stroke="#8FA3BF" stroke-width="1.62"/>
+<path d="M 9.00 4.68 L 9.00 9.36 L 12.06 11.16" transform="translate(922 22)" fill="none" stroke="#8FA3BF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#8FA3BF" text-anchor="start"><tspan x="944" y="31">14:32</tspan></text>
+<rect x="1014" y="14" width="146" height="36" rx="10" fill="#D8301E"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1087" y="33.66">EMERGENCY STOP</tspan></text>
+</g>
+<g id="Session-header" data-name="Session header">
+<text font-family="Inter, sans-serif" font-size="22" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="20" y="101.6">Session S-1042</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="20" y="122">Memory Match with Salma · started 14:24</tspan></text>
+<circle cx="760" cy="102" r="16" fill="#FFDB99"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#54040F" text-anchor="middle"><tspan x="760" y="101.2">S</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="784" y="100">Salma · Age 7</tspan></text>
+<rect x="900" y="88" width="54" height="24" rx="12" fill="#0F2A27"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="927" y="101.8">Live</tspan></text>
+<rect x="1014" y="86" width="146" height="38" rx="9" fill="#D8301E"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1087" y="106.75">End session</tspan></text>
+</g>
+<g id="Command-console" data-name="Command console">
+<rect x="20" y="148" width="740" height="412" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#22D3EE" text-anchor="start" letter-spacing="1.2"><tspan x="40" y="173.2">COMMAND CONSOLE</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="191.2">Type a command or use a quick action.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="220.8">14:31:58</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="112" y="221.6">/say Great job, Salma!</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="470" y="220.8">OK · spoken</tspan></text>
+<rect x="40" y="240" width="700" height="1" rx="0" fill="#1A2940"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="260.8">14:30:40</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="112" y="261.6">/move forward 20</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="470" y="260.8">OK · 0.2 m</tspan></text>
+<rect x="40" y="280" width="700" height="1" rx="0" fill="#1A2940"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="300.8">14:29:12</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="112" y="301.6">/lights green</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="470" y="300.8">OK · LED set</tspan></text>
+<rect x="40" y="320" width="700" height="1" rx="0" fill="#1A2940"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="340.8">14:27:55</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="112" y="341.6">/pause</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#FEB612" text-anchor="start"><tspan x="470" y="340.8">OK · paused 20 s</tspan></text>
+<rect x="40" y="360" width="700" height="1" rx="0" fill="#1A2940"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="380.8">14:24:02</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="112" y="381.6">/start session</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="470" y="380.8">OK · session live</tspan></text>
+<rect x="40" y="400" width="700" height="1" rx="0" fill="#1A2940"/>
+</g>
+<g id="Button" data-name="Button">
+<rect x="40" y="424" width="88" height="30" rx="15" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="84" y="440.57">Wave</tspan></text>
+<rect x="136" y="424" width="88" height="30" rx="15" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="180" y="440.57">Say hello</tspan></text>
+<rect x="232" y="424" width="88" height="30" rx="15" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="276" y="440.57">Dance</tspan></text>
+<rect x="328" y="424" width="88" height="30" rx="15" fill="#17243A" stroke="#243349" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#E8F1FF" text-anchor="middle"><tspan x="372" y="440.57">Pause</tspan></text>
+</g>
+<g id="Command-console-2" data-name="Command console">
+<rect x="40" y="476" width="560" height="48" rx="12" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="56" y="498">Type /say, /move, /lights …</tspan></text>
+<path d="M 6.48 3.60 L 11.52 9.00 L 6.48 14.40" transform="translate(566 490)" fill="none" stroke="#22D3EE" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="616" y="476" width="124" height="48" rx="12" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#0B1220" text-anchor="middle"><tspan x="678" y="501.84">Send</tspan></text>
+</g>
+<g id="Session-plan" data-name="Session plan">
+<rect x="780" y="148" width="380" height="412" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="800" y="173.2">SESSION PLAN</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#22D3EE" text-anchor="end"><tspan x="1140" y="173.2">2 of 4</tspan></text>
+<circle cx="812" cy="210" r="10" fill="#2DC197"/>
+<path d="M 2.52 7.42 L 5.60 10.50 L 11.48 3.78" transform="translate(805 203)" fill="none" stroke="#0B1220" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="834" y="210.4">Connect robot</tspan></text>
+<rect x="834" y="225" width="280" height="1" rx="0" fill="#1A2940"/>
+<circle cx="812" cy="254" r="10" fill="#2DC197"/>
+<path d="M 2.52 7.42 L 5.60 10.50 L 11.48 3.78" transform="translate(805 247)" fill="none" stroke="#0B1220" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="834" y="254.4">Choose activity</tspan></text>
+<rect x="834" y="269" width="280" height="1" rx="0" fill="#1A2940"/>
+<circle cx="812" cy="298" r="10" fill="#1E304A"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#8FA3BF" text-anchor="start"><tspan x="834" y="298.4">Calibrate arm</tspan></text>
+<rect x="834" y="313" width="280" height="1" rx="0" fill="#1A2940"/>
+<circle cx="812" cy="342" r="10" fill="#1E304A"/>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#8FA3BF" text-anchor="start"><tspan x="834" y="342.4">Start session</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1"><tspan x="800" y="386.8">SESSION NOTES</tspan></text>
+<rect x="800" y="398" width="340" height="76" rx="10" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="814" y="417.2">Salma matched 6 pairs. Needs a slower pace on the last two.</tspan></text>
+<rect x="800" y="490" width="340" height="44" rx="10" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<circle cx="822" cy="512" r="5.76" fill="none" stroke="#22D3EE" stroke-width="1.44"/>
+<path d="M 8.00 4.16 L 8.00 8.32 L 10.72 9.92" transform="translate(814 504)" fill="none" stroke="#22D3EE" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#E8F1FF" text-anchor="start"><tspan x="838" y="512">08:24 elapsed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="end"><tspan x="1126" y="511.8">No limit</tspan></text>
+</g>
+<g id="Activity-card" data-name="Activity card">
+<rect x="20" y="580" width="740" height="200" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#22D3EE" text-anchor="start" letter-spacing="1.2"><tspan x="40" y="605.2">ACTIVITY · MEMORY MATCH</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#E8F1FF" text-anchor="end"><tspan x="740" y="605.2">6 of 8 pairs</tspan></text>
+<rect x="40" y="622" width="700" height="8" rx="4" fill="#1E304A"/>
+<rect x="40" y="622" width="525" height="8" rx="4" fill="#2DC197"/>
+<rect x="40" y="650" width="160" height="58" rx="10" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="52" y="666">COMMANDS</tspan></text>
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="52" y="688.8">18</tspan></text>
+<rect x="215" y="650" width="160" height="58" rx="10" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="227" y="666">ERRORS</tspan></text>
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="227" y="688.8">0</tspan></text>
+<rect x="390" y="650" width="160" height="58" rx="10" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="402" y="666">LATENCY</tspan></text>
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="402" y="688.8">24 ms</tspan></text>
+<rect x="565" y="650" width="160" height="58" rx="10" fill="#0D1727" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="0.8"><tspan x="577" y="666">UPTIME</tspan></text>
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#E8F1FF" text-anchor="start"><tspan x="577" y="688.8">08:24</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="40" y="735.2">Last command: /say “Great job!” · delivered in 24 ms</tspan></text>
+</g>
+<g id="Safety-card" data-name="Safety card">
+<rect x="780" y="580" width="380" height="200" rx="18" fill="#121C2E" stroke="#243349" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="800" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="800" y="605.2">SAFETY</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="800" y="631.6">Obstacle stop</tspan></text>
+<rect x="1080" y="622" width="36" height="20" rx="10" fill="#2DC197"/>
+<circle cx="1106" cy="632" r="7" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="800" y="663.6">Speed limit 0.4</tspan></text>
+<rect x="1080" y="654" width="36" height="20" rx="10" fill="#2DC197"/>
+<circle cx="1106" cy="664" r="7" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#E8F1FF" text-anchor="start"><tspan x="800" y="695.6">Child lock</tspan></text>
+<rect x="1080" y="686" width="36" height="20" rx="10" fill="#2DC197"/>
+<circle cx="1106" cy="696" r="7" fill="#FFFFFF"/>
+<rect x="800" y="720" width="340" height="38" rx="9" fill="#D8301E"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="970" y="740.75">Stop robot</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="20" y="818.8">Session S-1042 · Operator MK · Mode manual</tspan></text>
+</svg>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<title>Report review</title>
+<desc>Draft report, sharing controls, version history and approval.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1024" fill="#F5F8FD"/>
+<g id="Sidebar" data-name="Sidebar">
+<rect x="0" y="0" width="248" height="1024" rx="0" fill="#FFFFFF"/>
+<circle cx="44" cy="44" r="20" fill="#286CB5"/>
+<polygon points="45.2,35.6 38.4,45.2 43.2,45.2 41.2,52.4 49.6,42 44.4,42" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#241A1F" text-anchor="start"><tspan x="74" y="39.4">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="1.2"><tspan x="74" y="56.2">CLINIC</tspan></text>
+<rect x="20" y="92" width="208" height="1" rx="0" fill="#E7EBF2"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(32 112)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="120.4">Overview</tspan></text>
+<circle cx="39.6" cy="168.8" r="2.6" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 2.40 16.00 Q 2.80 11.60 7.60 11.60 Q 12.40 11.60 12.80 16.00" transform="translate(32 162)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.6" cy="168" r="2.2" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 12.40 11.20 Q 18.00 11.60 18.00 16.00" transform="translate(32 162)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="170.4">Children</tspan></text>
+<path d="M 3.20 4.00 L 16.80 4.00 L 16.80 16.40 L 10.00 15.20 L 3.20 16.40 Z" transform="translate(32 212)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 10.00 4.00 L 10.00 15.20" transform="translate(32 212)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="220.4">Assessments</tspan></text>
+<rect x="14" y="254" width="220" height="44" rx="12" fill="#F1F6FE"/>
+<rect x="14" y="266" width="3" height="20" rx="1.5" fill="#286CB5"/>
+<rect x="36" y="272" width="2.6" height="6" rx="2" fill="#286CB5"/>
+<rect x="40.6" y="268.8" width="2.6" height="9.2" rx="2" fill="#286CB5"/>
+<rect x="45.2" y="265.6" width="2.6" height="12.4" rx="2" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="64" y="270.4">Reports</tspan></text>
+<rect x="34.8" y="317.2" width="14.4" height="9.6" rx="1.2" fill="none" stroke="#6B7280" stroke-width="1.8"/>
+<path d="M 2.80 6.00 L 10.00 11.20 L 17.20 6.00" transform="translate(32 312)" fill="none" stroke="#6B7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="64" y="320.4">Messages</tspan></text>
+<rect x="16" y="914" width="216" height="86" rx="16" fill="#F6F8FC"/>
+<circle cx="46" cy="946" r="18" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="46" y="945">DH</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="74" y="941.6">Dr. Hana</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="74" y="958">Clinic</tspan></text>
+<path d="M 3.52 2.56 L 9.28 2.56 L 9.28 13.44 L 3.52 13.44 Z" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.36 8.00 L 13.76 8.00" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 11.20 5.76 L 13.76 8.00 L 11.20 10.24" transform="translate(202 932)" fill="none" stroke="#6B7280" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Top-bar" data-name="Top bar">
+<rect x="248" y="0" width="1192" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="248" y="71" width="1192" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="288" y="36.6">Reports / IQ Assessment / Salma Ahmed</tspan></text>
+<rect x="964" y="16" width="290" height="40" rx="12" fill="#F4F7FB"/>
+<circle cx="987.92" cy="34.92" r="4.32" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 11.16 11.16 L 14.76 14.76" transform="translate(980 27)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="1008" y="37.6">Search children, reports…</tspan></text>
+<rect x="1272" y="16" width="40" height="40" rx="20" fill="#F4F7FB"/>
+<path d="M 5.04 11.88 L 5.04 7.92 M 5.04 7.92 C 5.04 5.73 6.81 3.96 9.00 3.96 C 11.19 3.96 12.96 5.73 12.96 7.92 L 12.96 11.88 Z" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 11.88 L 14.40 11.88" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1292" cy="41.04" r="0.72" fill="#241A1F"/>
+<circle cx="1330" cy="36" r="20" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="1330" y="36.8">DH</tspan></text>
+</g>
+<g id="Page-header" data-name="Page header">
+<text font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="288" y="116.8">Report review</tspan></text>
+<rect x="470" y="102" width="58" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="499" y="115.8">Draft</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="288" y="143.2">Check the wording, then share with the parent.</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="1130" y="104" width="100" height="40" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1180" y="125.75">Preview</tspan></text>
+<rect x="1242" y="104" width="140" height="40" rx="10" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1312" y="125.75">Approve &amp; send</tspan></text>
+</g>
+<g id="Report-page" data-name="Report page">
+<rect x="288" y="160" width="760" height="760" rx="12" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="900" fill="#286CB5" text-anchor="start" letter-spacing="1.4"><tspan x="320" y="193.6">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="320" y="220">Assessment report</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="320" y="239.2">Educational insights, not a clinical diagnosis.</tspan></text>
+<rect x="320" y="256" width="696" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="320" y="277.2">Child: Salma Ahmed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="500" y="277.2">Date: 12 Nov 2026</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="680" y="277.2">Reviewer: Dr. Hana Saleh</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="320" y="316.4">Summary</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="338">Salma completed the SPARK IQ assessment with a score of 112,</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="356">placing her above the expected range for her age.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="320" y="396.4">Strengths</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="418">• Strong pattern recognition and logical reasoning.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="436">• Sustained focus across the first 18 items.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="454">• Confident approach to unfamiliar shapes.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="320" y="496.4">Areas to support</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="518">• Working memory when two rules are combined.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="536">• Re-checking answers before submitting.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="320" y="596.4">Recommendations</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="618">• 10 minutes of Memory Match, three times a week.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="636">• Short focus breaks after 12 minutes of work.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="320" y="696.4">Next review</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="718">Review progress in four weeks and compare with the</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A3B42" text-anchor="start"><tspan x="320" y="736">next form of the assessment.</tspan></text>
+<rect x="320" y="852" width="240" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="320" y="866.8">Dr. Hana Saleh · Educational specialist</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="end"><tspan x="1016" y="866.8">Page 1 / 2</tspan></text>
+</g>
+<g id="Report-details" data-name="Report details">
+<rect x="1068" y="160" width="332" height="240" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1088" y="188.4">Report details</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1088" y="219.2">Template</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="219.2">IQ Assessment v2</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1088" y="259.2">Language</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="259.2">English / Arabic</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1088" y="299.2">Created</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="299.2">12 Nov · 10:30</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1088" y="339.2">Last edit</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="end"><tspan x="1380" y="339.2">12 Nov · 11:12</tspan></text>
+</g>
+<g id="Sharing" data-name="Sharing">
+<rect x="1068" y="420" width="332" height="200" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1088" y="448.4">Sharing</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="1088" y="481.6">Share with parent</tspan></text>
+<rect x="1322" y="472" width="36" height="20" rx="10" fill="#2DC197"/>
+<circle cx="1348" cy="482" r="7" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="1088" y="525.6">Anonymise for research</tspan></text>
+<rect x="1322" y="516" width="36" height="20" rx="10" fill="#E5E9F0"/>
+<circle cx="1332" cy="526" r="7" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="8.2" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1088" y="572.56">The parent receives a read-only copy. Research data uses aggregates only.</tspan></text>
+</g>
+<g id="Versions" data-name="Versions">
+<rect x="1068" y="640" width="332" height="160" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1088" y="668.4">Version history</tspan></text>
+<rect x="1088" y="688" width="34" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1105" y="701.8">v3</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#241A1F" text-anchor="start"><tspan x="1132" y="697.2">Draft · 11:12</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="end"><tspan x="1380" y="696.8">Dr. Hana</tspan></text>
+<rect x="1088" y="720" width="34" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1105" y="733.8">v2</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#241A1F" text-anchor="start"><tspan x="1132" y="729.2">Edit · 10:58</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="end"><tspan x="1380" y="728.8">Dr. Hana</tspan></text>
+<rect x="1088" y="752" width="34" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="1105" y="765.8">v1</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#241A1F" text-anchor="start"><tspan x="1132" y="761.2">Created · 10:30</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="end"><tspan x="1380" y="760.8">System</tspan></text>
+</g>
+<g id="Comment" data-name="Comment">
+<rect x="1068" y="820" width="332" height="100" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="1088" y="844.8">Reviewer note</tspan></text>
+<rect x="1088" y="858" width="292" height="44" rx="8" fill="#F6F8FC"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1098" y="876.8">Add a note for the team…</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<title>Research analytics</title>
+<desc>KPIs, score distribution, age cohorts and aggregate privacy.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1024" fill="#F5F7FF"/>
+<g id="Sidebar" data-name="Sidebar">
+<rect x="0" y="0" width="248" height="1024" rx="0" fill="#080833"/>
+<circle cx="44" cy="44" r="20" fill="#2DC197"/>
+<polygon points="45.2,35.6 38.4,45.2 43.2,45.2 41.2,52.4 49.6,42 44.4,42" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="74" y="39.4">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="74" y="56.2">PLATFORM</tspan></text>
+<rect x="20" y="92" width="208" height="1" rx="0" fill="#243349"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(32 112)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="120.4">Overview</tspan></text>
+<circle cx="39.6" cy="168.8" r="2.6" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 2.40 16.00 Q 2.80 11.60 7.60 11.60 Q 12.40 11.60 12.80 16.00" transform="translate(32 162)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.6" cy="168" r="2.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 12.40 11.20 Q 18.00 11.60 18.00 16.00" transform="translate(32 162)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="170.4">Users</tspan></text>
+<circle cx="42" cy="219" r="3.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 4.00 16.40 Q 4.40 11.60 10.00 11.60 Q 15.60 11.60 16.00 16.40" transform="translate(32 212)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="220.4">Children</tspan></text>
+<rect x="34.8" y="265.6" width="14.4" height="9.6" rx="1.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 10.00 13.20 L 10.00 16.40 M 6.80 16.40 L 13.20 16.40" transform="translate(32 262)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="270.4">Devices</tspan></text>
+<rect x="14" y="304" width="220" height="44" rx="12" fill="#122A4A"/>
+<rect x="14" y="316" width="3" height="20" rx="1.5" fill="#2DC197"/>
+<path d="M 6.00 3.20 L 14.00 3.20 L 12.80 8.00 L 16.40 15.60 Q 16.80 17.20 14.80 17.20 L 5.20 17.20 Q 3.20 17.20 3.60 15.60 L 7.20 8.00 Z" transform="translate(32 312)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.00 12.40 L 14.00 12.40" transform="translate(32 312)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="64" y="320.4">Research</tspan></text>
+<path d="M 10.00 2.40 L 16.40 5.20 L 15.60 11.60 Q 14.00 16.00 10.00 17.60 Q 6.00 16.00 4.40 11.60 L 3.60 5.20 Z" transform="translate(32 362)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="370.4">Audit</tspan></text>
+<rect x="16" y="914" width="216" height="86" rx="16" fill="#0F1B30"/>
+<circle cx="46" cy="946" r="18" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="46" y="945">AR</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="74" y="941.6">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="74" y="958">Platform</tspan></text>
+<path d="M 3.52 2.56 L 9.28 2.56 L 9.28 13.44 L 3.52 13.44 Z" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.36 8.00 L 13.76 8.00" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 11.20 5.76 L 13.76 8.00 L 11.20 10.24" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Top-bar" data-name="Top bar">
+<rect x="248" y="0" width="1192" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="248" y="71" width="1192" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="288" y="36.6">Research / Analytics</tspan></text>
+<rect x="964" y="16" width="290" height="40" rx="12" fill="#F4F7FB"/>
+<circle cx="987.92" cy="34.92" r="4.32" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 11.16 11.16 L 14.76 14.76" transform="translate(980 27)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="1008" y="37.6">Search users, reports…</tspan></text>
+<rect x="1272" y="16" width="40" height="40" rx="20" fill="#F4F7FB"/>
+<path d="M 5.04 11.88 L 5.04 7.92 M 5.04 7.92 C 5.04 5.73 6.81 3.96 9.00 3.96 C 11.19 3.96 12.96 5.73 12.96 7.92 L 12.96 11.88 Z" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 11.88 L 14.40 11.88" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1292" cy="41.04" r="0.72" fill="#241A1F"/>
+<circle cx="1330" cy="36" r="20" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="1330" y="36.8">AR</tspan></text>
+</g>
+<g id="Page-header" data-name="Page header">
+<text font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="288" y="116.8">Research analytics</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="288" y="145.2">Anonymised, aggregate learning data. No direct identifiers are shown.</tspan></text>
+<rect x="1000" y="98" width="170" height="24" rx="12" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="1085" y="111.8">Anonymised aggregates</tspan></text>
+</g>
+<g id="Cohort-selector" data-name="Cohort selector">
+<rect x="1000" y="138" width="200" height="36" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="1014" y="155.2">All children · 412</tspan></text>
+<path d="M 3.08 5.32 L 7.00 9.24 L 10.92 5.32" transform="translate(1176 149)" fill="none" stroke="#6B7280" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Button" data-name="Button">
+<rect x="1212" y="138" width="168" height="36" rx="10" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<path d="M 9.00 2.88 L 9.00 10.44" transform="translate(1230 147)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 5.76 7.56 L 9.00 10.80 L 12.24 7.56" transform="translate(1230 147)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.24 12.60 L 3.24 15.12 L 14.76 15.12 L 14.76 12.60" transform="translate(1230 147)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1311" y="157.57">Export CSV</tspan></text>
+</g>
+<g id="KPI-1" data-name="KPI 1">
+<rect x="288" y="188" width="260" height="96" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="306" y="209.6">Participants</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="306" y="239.2">412</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#1A478B" text-anchor="start"><tspan x="306" y="264.8">All cohorts</tspan></text>
+<circle cx="516" cy="206" r="14" fill="#E8EDFF"/>
+<circle cx="514.32" cy="203.76" r="1.82" fill="none" stroke="#1A478B" stroke-width="1.4"/>
+<path d="M 1.68 11.20 Q 1.96 8.12 5.32 8.12 Q 8.68 8.12 8.96 11.20" transform="translate(509 199)" fill="none" stroke="#1A478B" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="518.52" cy="203.2" r="1.54" fill="none" stroke="#1A478B" stroke-width="1.4"/>
+<path d="M 8.68 7.84 Q 12.60 8.12 12.60 11.20" transform="translate(509 199)" fill="none" stroke="#1A478B" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="KPI-2" data-name="KPI 2">
+<rect x="568" y="188" width="260" height="96" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="586" y="209.6">Assessments</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="586" y="239.2">1,840</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#2DC197" text-anchor="start"><tspan x="586" y="264.8">Completed</tspan></text>
+<circle cx="796" cy="206" r="14" fill="#E6F8F2"/>
+<path d="M 2.24 2.80 L 11.76 2.80 L 11.76 11.48 L 7.00 10.64 L 2.24 11.48 Z" transform="translate(789 199)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.00 2.80 L 7.00 10.64" transform="translate(789 199)" fill="none" stroke="#2DC197" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="KPI-3" data-name="KPI 3">
+<rect x="848" y="188" width="260" height="96" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="866" y="209.6">Average IQ</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="866" y="239.2">104</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#286CB5" text-anchor="start"><tspan x="866" y="264.8">SD 12.4</tspan></text>
+<circle cx="1076" cy="206" r="14" fill="#F1F6FE"/>
+<rect x="1071.8" y="206" width="1.82" height="4.2" rx="2" fill="#286CB5"/>
+<rect x="1075.02" y="203.76" width="1.82" height="6.44" rx="2" fill="#286CB5"/>
+<rect x="1078.24" y="201.52" width="1.82" height="8.68" rx="2" fill="#286CB5"/>
+</g>
+<g id="KPI-4" data-name="KPI 4">
+<rect x="1128" y="188" width="260" height="96" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1146" y="209.6">Completion</tspan></text>
+<text font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1146" y="239.2">87%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#7BA400" text-anchor="start"><tspan x="1146" y="264.8">+4% vs last term</tspan></text>
+<circle cx="1356" cy="206" r="14" fill="#F1F6DC"/>
+<path d="M 2.52 7.42 L 5.60 10.50 L 11.48 3.78" transform="translate(1349 199)" fill="none" stroke="#7BA400" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Distribution" data-name="Distribution">
+<rect x="288" y="304" width="760" height="330" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="333.2">Score distribution</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="308" y="349.2">SPARK IQ · 1,840 assessments</tspan></text>
+<rect x="346.1" y="547.54" width="53.14" height="10.46" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="372.67" y="573.2">60</tspan></text>
+<rect x="419.43" y="529.23" width="53.14" height="28.77" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="446" y="573.2">70</tspan></text>
+<rect x="492.76" y="495.23" width="53.14" height="62.77" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="519.33" y="573.2">80</tspan></text>
+<rect x="566.1" y="445.54" width="53.14" height="112.46" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="592.67" y="573.2">90</tspan></text>
+<rect x="639.43" y="401.08" width="53.14" height="156.92" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="666" y="573.2">100</tspan></text>
+<rect x="712.76" y="432.46" width="53.14" height="125.54" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="739.33" y="573.2">110</tspan></text>
+<rect x="786.1" y="487.38" width="53.14" height="70.62" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="812.67" y="573.2">120</tspan></text>
+<rect x="859.43" y="526.62" width="53.14" height="31.38" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="886" y="573.2">130</tspan></text>
+<rect x="932.76" y="544.92" width="53.14" height="13.08" rx="3" fill="#286CB5"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="959.33" y="573.2">140</tspan></text>
+<rect x="699" y="388" width="1" height="170" rx="0" fill="#FF8310" opacity="0.8"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="699" y="374.8">mean 104</tspan></text>
+<circle cx="699" cy="388" r="3" fill="#FF8310"/>
+</g>
+<g id="Age-comparison" data-name="Age comparison">
+<rect x="1068" y="304" width="332" height="330" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="1088" y="333.2">Age group comparison</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1088" y="349.2">Average score by band</tspan></text>
+<circle cx="1088" cy="370" r="4" fill="#1A478B"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1098" y="370.4">Average</tspan></text>
+<circle cx="1176" cy="370" r="4" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="1186" y="370.4">Completion</tspan></text>
+<rect x="1104" y="468" width="24" height="92" rx="4" fill="#1A478B"/>
+<rect x="1134" y="482" width="24" height="78" rx="4" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="1132" y="578.8">6–7</tspan></text>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#1A478B" text-anchor="middle"><tspan x="1116" y="460">92</tspan></text>
+<rect x="1190" y="456" width="24" height="104" rx="4" fill="#1A478B"/>
+<rect x="1220" y="472" width="24" height="88" rx="4" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="1218" y="578.8">8–9</tspan></text>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#1A478B" text-anchor="middle"><tspan x="1202" y="448">104</tspan></text>
+<rect x="1276" y="448" width="24" height="112" rx="4" fill="#1A478B"/>
+<rect x="1306" y="464" width="24" height="96" rx="4" fill="#22D3EE"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#6B7280" text-anchor="middle"><tspan x="1304" y="578.8">10–11</tspan></text>
+<text font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#1A478B" text-anchor="middle"><tspan x="1288" y="440">112</tspan></text>
+<rect x="1088" y="560" width="292" height="1" rx="0" fill="#E7EBF2"/>
+</g>
+<g id="Cohort-filters" data-name="Cohort filters">
+<rect x="288" y="654" width="300" height="310" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="308" y="682.4">Cohort filters</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="308" y="698.8">Applies to all charts</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.8"><tspan x="308" y="722.8">Age group</tspan></text>
+<rect x="308" y="734" width="80" height="26" rx="13" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="348" y="747.4">6–7</tspan></text>
+<rect x="396" y="734" width="80" height="26" rx="13" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="436" y="747.4">8–9</tspan></text>
+<rect x="484" y="734" width="80" height="26" rx="13" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="524" y="747.4">10–11</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.8"><tspan x="308" y="788.8">Gender</tspan></text>
+<rect x="308" y="800" width="80" height="26" rx="13" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="348" y="813.4">All</tspan></text>
+<rect x="396" y="800" width="80" height="26" rx="13" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="436" y="813.4">Girls</tspan></text>
+<rect x="484" y="800" width="80" height="26" rx="13" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="524" y="813.4">Boys</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start" letter-spacing="0.8"><tspan x="308" y="854.8">Period</tspan></text>
+<rect x="308" y="866" width="80" height="26" rx="13" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="348" y="879.4">This term</tspan></text>
+<rect x="396" y="866" width="80" height="26" rx="13" fill="#F6F8FC" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="436" y="879.4">Last term</tspan></text>
+<rect x="308" y="900" width="260" height="36" rx="10" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="438" y="919.66">Apply filters</tspan></text>
+</g>
+<g id="Cohort-table" data-name="Cohort table">
+<rect x="608" y="654" width="792" height="310" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="628" y="682.4">Cohort summary</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#286CB5" text-anchor="end"><tspan x="1380" y="680.8">View all</tspan></text>
+<rect x="628" y="700" width="752" height="30" rx="8" fill="#F6F8FC"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="644" y="714.8">Age band</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="820" y="714.8">n</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="900" y="714.8">Avg score</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="1030" y="714.8">Completion</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="1180" y="714.8">Trend</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="644" y="751.2">6–7</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="820" y="751.2">148</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="900" y="752">92</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#2DC197" text-anchor="start"><tspan x="1030" y="751.2">78%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="1180" y="751.2">+6%</tspan></text>
+<rect x="628" y="774" width="752" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="644" y="799.2">8–9</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="820" y="799.2">164</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="900" y="800">104</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#2DC197" text-anchor="start"><tspan x="1030" y="799.2">88%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="1180" y="799.2">+4%</tspan></text>
+<rect x="628" y="822" width="752" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#241A1F" text-anchor="start"><tspan x="644" y="847.2">10–11</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="820" y="847.2">100</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="900" y="848">112</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#2DC197" text-anchor="start"><tspan x="1030" y="847.2">91%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#7BA400" text-anchor="start"><tspan x="1180" y="847.2">+3%</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="628" y="914.4">Aggregates with n &lt; 10 are suppressed to protect privacy.</tspan></text>
+</g>
+</svg>

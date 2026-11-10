@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" fill="none">
+<title>Users &amp; roles</title>
+<desc>User directory, role badges, account status and scoping note.</desc>
+<rect id="Background" x="0" y="0" width="1440" height="1024" fill="#F5F7FF"/>
+<g id="Sidebar" data-name="Sidebar">
+<rect x="0" y="0" width="248" height="1024" rx="0" fill="#080833"/>
+<circle cx="44" cy="44" r="20" fill="#2DC197"/>
+<polygon points="45.2,35.6 38.4,45.2 43.2,45.2 41.2,52.4 49.6,42 44.4,42" fill="#FFFFFF"/>
+<text font-family="Inter, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="start"><tspan x="74" y="39.4">SPARK</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#8FA3BF" text-anchor="start" letter-spacing="1.2"><tspan x="74" y="56.2">PLATFORM</tspan></text>
+<rect x="20" y="92" width="208" height="1" rx="0" fill="#243349"/>
+<path d="M 3.20 9.40 L 10.00 3.60 L 16.80 9.40 L 16.80 16.40 L 12.00 16.40 L 12.00 12.00 L 8.00 12.00 L 8.00 16.40 L 3.20 16.40 Z" transform="translate(32 112)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="120.4">Overview</tspan></text>
+<rect x="14" y="154" width="220" height="44" rx="12" fill="#122A4A"/>
+<rect x="14" y="166" width="3" height="20" rx="1.5" fill="#2DC197"/>
+<circle cx="39.6" cy="168.8" r="2.6" fill="none" stroke="#2DC197" stroke-width="1.8"/>
+<path d="M 2.40 16.00 Q 2.80 11.60 7.60 11.60 Q 12.40 11.60 12.80 16.00" transform="translate(32 162)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.6" cy="168" r="2.2" fill="none" stroke="#2DC197" stroke-width="1.8"/>
+<path d="M 12.40 11.20 Q 18.00 11.60 18.00 16.00" transform="translate(32 162)" fill="none" stroke="#2DC197" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="64" y="170.4">Users</tspan></text>
+<circle cx="42" cy="219" r="3.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 4.00 16.40 Q 4.40 11.60 10.00 11.60 Q 15.60 11.60 16.00 16.40" transform="translate(32 212)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="220.4">Children</tspan></text>
+<rect x="34.8" y="265.6" width="14.4" height="9.6" rx="1.2" fill="none" stroke="#8FA3BF" stroke-width="1.8"/>
+<path d="M 10.00 13.20 L 10.00 16.40 M 6.80 16.40 L 13.20 16.40" transform="translate(32 262)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="270.4">Devices</tspan></text>
+<path d="M 6.00 3.20 L 14.00 3.20 L 12.80 8.00 L 16.40 15.60 Q 16.80 17.20 14.80 17.20 L 5.20 17.20 Q 3.20 17.20 3.60 15.60 L 7.20 8.00 Z" transform="translate(32 312)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 6.00 12.40 L 14.00 12.40" transform="translate(32 312)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="320.4">Research</tspan></text>
+<path d="M 10.00 2.40 L 16.40 5.20 L 15.60 11.60 Q 14.00 16.00 10.00 17.60 Q 6.00 16.00 4.40 11.60 L 3.60 5.20 Z" transform="translate(32 362)" fill="none" stroke="#8FA3BF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="13" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="64" y="370.4">Audit</tspan></text>
+<rect x="16" y="914" width="216" height="86" rx="16" fill="#0F1B30"/>
+<circle cx="46" cy="946" r="18" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="46" y="945">AR</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="74" y="941.6">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#8FA3BF" text-anchor="start"><tspan x="74" y="958">Platform</tspan></text>
+<path d="M 3.52 2.56 L 9.28 2.56 L 9.28 13.44 L 3.52 13.44 Z" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 7.36 8.00 L 13.76 8.00" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 11.20 5.76 L 13.76 8.00 L 11.20 10.24" transform="translate(202 932)" fill="none" stroke="#8FA3BF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Top-bar" data-name="Top bar">
+<rect x="248" y="0" width="1192" height="72" rx="0" fill="#FFFFFF"/>
+<rect x="248" y="71" width="1192" height="1" rx="0" fill="#E7EBF2"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="288" y="36.6">Admin / Users &amp; roles</tspan></text>
+<rect x="964" y="16" width="290" height="40" rx="12" fill="#F4F7FB"/>
+<circle cx="987.92" cy="34.92" r="4.32" fill="none" stroke="#9AA3AF" stroke-width="1.62"/>
+<path d="M 11.16 11.16 L 14.76 14.76" transform="translate(980 27)" fill="none" stroke="#9AA3AF" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="1008" y="37.6">Search users, reports…</tspan></text>
+<rect x="1272" y="16" width="40" height="40" rx="20" fill="#F4F7FB"/>
+<path d="M 5.04 11.88 L 5.04 7.92 M 5.04 7.92 C 5.04 5.73 6.81 3.96 9.00 3.96 C 11.19 3.96 12.96 5.73 12.96 7.92 L 12.96 11.88 Z" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.60 11.88 L 14.40 11.88" transform="translate(1283 27)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1292" cy="41.04" r="0.72" fill="#241A1F"/>
+<circle cx="1330" cy="36" r="20" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle"><tspan x="1330" y="36.8">AR</tspan></text>
+</g>
+<g id="Page-header" data-name="Page header">
+<text font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="288" y="116.8">Users &amp; roles</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="288" y="145.2">Invite people, assign roles and control access.</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="1252" y="96" width="128" height="40" rx="10" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1316" y="117.75">Invite user</tspan></text>
+</g>
+<g id="Toolbar" data-name="Toolbar">
+<rect x="288" y="148" width="320" height="34" rx="17" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="309.04" cy="164.04" r="3.84" fill="none" stroke="#9AA3AF" stroke-width="1.44"/>
+<path d="M 9.92 9.92 L 13.12 13.12" transform="translate(302 157)" fill="none" stroke="#9AA3AF" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="400" fill="#9AA3AF" text-anchor="start"><tspan x="326" y="165.2">Search name, email or ID…</tspan></text>
+<rect x="624" y="148" width="70" height="34" rx="17" fill="#2DC197"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="659" y="164.2">All roles</tspan></text>
+<rect x="706" y="148" width="58" height="34" rx="17" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="735" y="164.2">Active</tspan></text>
+<rect x="788" y="148" width="64" height="34" rx="17" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="820" y="164.2">Pending</tspan></text>
+<rect x="870" y="148" width="76" height="34" rx="17" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="908" y="164.2">Suspended</tspan></text>
+</g>
+<g id="Button-2" data-name="Button">
+<rect x="1212" y="148" width="168" height="34" rx="17" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1.2"/>
+<path d="M 9.00 2.88 L 9.00 10.44" transform="translate(1230 156)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 5.76 7.56 L 9.00 10.80 L 12.24 7.56" transform="translate(1230 156)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 3.24 12.60 L 3.24 15.12 L 14.76 15.12 L 14.76 12.60" transform="translate(1230 156)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#241A1F" text-anchor="middle"><tspan x="1311" y="166.57">Export CSV</tspan></text>
+</g>
+<g id="Users-table" data-name="Users table">
+<rect x="288" y="200" width="1112" height="620" rx="18" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<rect x="308" y="220" width="1072" height="36" rx="8" fill="#F6F8FC"/>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="324" y="239.6">User</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="620" y="239.6">Role</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="750" y="239.6">Linked child</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="920" y="239.6">Status</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="1020" y="239.6">Last active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9.5" font-weight="700" fill="#6B7280" text-anchor="start"><tspan x="1170" y="239.6">Actions</tspan></text>
+<circle cx="334" cy="290" r="16" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#FF8310" text-anchor="middle"><tspan x="334" y="289.4">S</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="286.4">Salma Ahmed</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="302.8">salma@spark.app</tspan></text>
+<rect x="620" y="280" width="74" height="24" rx="12" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="657" y="293.8">Child</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="292.2">Omar Hassan</tspan></text>
+<rect x="920" y="280" width="82" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="961" y="293.8">Active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="291.8">2 min ago</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 286)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="322" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="354" r="16" fill="#FBE9EA"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#54040F" text-anchor="middle"><tspan x="334" y="353.4">O</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="350.4">Omar Hassan</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="366.8">omar@example.com</tspan></text>
+<rect x="620" y="344" width="74" height="24" rx="12" fill="#FBE9EA"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#54040F" text-anchor="middle"><tspan x="657" y="357.8">Parent</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="356.2">Salma Ahmed</tspan></text>
+<rect x="920" y="344" width="82" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="961" y="357.8">Active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="355.8">18 min ago</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 350)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="386" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="418" r="16" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#286CB5" text-anchor="middle"><tspan x="334" y="417.4">D</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="414.4">Dr. Hana Saleh</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="430.8">hana@clinic.org</tspan></text>
+<rect x="620" y="408" width="74" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="657" y="421.8">Doctor</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="420.2">24 children</tspan></text>
+<rect x="920" y="408" width="82" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="961" y="421.8">Active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="419.8">1 h ago</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 414)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="450" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="482" r="16" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#286CB5" text-anchor="middle"><tspan x="334" y="481.4">Y</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="478.4">Yara Samir</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="494.8">yara@clinic.org</tspan></text>
+<rect x="620" y="472" width="74" height="24" rx="12" fill="#F1F6FE"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#286CB5" text-anchor="middle"><tspan x="657" y="485.8">Doctor</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="484.2">—</tspan></text>
+<rect x="920" y="472" width="82" height="24" rx="12" fill="#FFF7DF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FEB612" text-anchor="middle"><tspan x="961" y="485.8">Pending</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="483.8">Invited</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 478)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="514" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="546" r="16" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#2DC197" text-anchor="middle"><tspan x="334" y="545.4">A</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="542.4">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="558.8">admin@spark.app</tspan></text>
+<rect x="620" y="536" width="74" height="24" rx="12" fill="#E6F8F2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#2DC197" text-anchor="middle"><tspan x="657" y="549.8">Admin</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="548.2">Platform</tspan></text>
+<rect x="920" y="536" width="82" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="961" y="549.8">Active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="547.8">5 min ago</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 542)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="578" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="610" r="16" fill="#E8EDFF"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#1A478B" text-anchor="middle"><tspan x="334" y="609.4">R</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="606.4">Rami Adel</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="622.8">rami@uni.edu</tspan></text>
+<rect x="620" y="600" width="74" height="24" rx="12" fill="#E8EDFF"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#1A478B" text-anchor="middle"><tspan x="657" y="613.8">Researcher</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="612.2">Aggregate</tspan></text>
+<rect x="920" y="600" width="82" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="961" y="613.8">Active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="611.8">Yesterday</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 606)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="642" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="674" r="16" fill="#FBE9EA"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#54040F" text-anchor="middle"><tspan x="334" y="673.4">N</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="670.4">Nour Hassan</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="686.8">nour@example.com</tspan></text>
+<rect x="620" y="664" width="74" height="24" rx="12" fill="#FBE9EA"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#54040F" text-anchor="middle"><tspan x="657" y="677.8">Parent</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="676.2">Lina Youssef</tspan></text>
+<rect x="920" y="664" width="82" height="24" rx="12" fill="#FDECEA"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#D8301E" text-anchor="middle"><tspan x="961" y="677.8">Suspended</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="675.8">3 days ago</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 670)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="706" width="1072" height="1" rx="0" fill="#E7EBF2"/>
+<circle cx="334" cy="738" r="16" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="8" font-weight="800" fill="#FF8310" text-anchor="middle"><tspan x="334" y="737.4">A</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="362" y="734.4">Adam Nabil</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="362" y="750.8">adam@spark.app</tspan></text>
+<rect x="620" y="728" width="74" height="24" rx="12" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FF8310" text-anchor="middle"><tspan x="657" y="741.8">Child</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="750" y="740.2">Nour Hassan</tspan></text>
+<rect x="920" y="728" width="82" height="24" rx="12" fill="#F1F6DC"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#7BA400" text-anchor="middle"><tspan x="961" y="741.8">Active</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="400" fill="#6B7280" text-anchor="start"><tspan x="1020" y="739.8">Today</tspan></text>
+<path d="M 5.04 2.80 L 8.96 7.00 L 5.04 11.20" transform="translate(1200 734)" fill="none" stroke="#9AA3AF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="324" y="793.2">Showing 1–8 of 1,248 users</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="500" fill="#6B7280" text-anchor="end"><tspan x="1110" y="793.2">‹ Prev</tspan></text>
+<text font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#2DC197" text-anchor="end"><tspan x="1260" y="793.2">Next ›</tspan></text>
+</g>
+<g id="Role-note" data-name="Role note">
+<path d="M 8.00 1.92 L 13.12 4.16 L 12.48 9.28 Q 11.20 12.80 8.00 14.08 Q 4.80 12.80 3.52 9.28 L 2.88 4.16 Z" transform="translate(288 848)" fill="none" stroke="#2DC197" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="312" y="854.8">Role scopes access: parents see linked children only; doctors see assigned children; researchers see anonymised aggregates.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#2DC197" text-anchor="end"><tspan x="1400" y="854.8">View audit log →</tspan></text>
+</g>
+</svg>

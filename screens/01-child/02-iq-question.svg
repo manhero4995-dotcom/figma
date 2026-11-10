@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+<title>IQ question</title>
+<desc>Focused assessment question with progress and answer states.</desc>
+<rect id="Background" x="0" y="0" width="390" height="844" fill="#FFF8EE"/>
+<g id="Status-bar" data-name="Status bar">
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="22" y="23.6">9:41</tspan></text>
+<rect x="302.4" y="24.3" width="1.8" height="3" rx="1" fill="#241A1F"/>
+<rect x="305.1" y="22.5" width="1.8" height="4.8" rx="1" fill="#241A1F"/>
+<rect x="307.8" y="20.7" width="1.8" height="6.6" rx="1" fill="#241A1F"/>
+<rect x="310.5" y="18.9" width="1.8" height="8.4" rx="1" fill="#241A1F"/>
+<path d="M 2.88 7.14 C 3.72 5.35 5.52 4.20 7.50 4.20 C 9.48 4.20 11.28 5.35 12.12 7.14" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 4.80 7.41 C 5.41 6.53 6.42 6.00 7.50 6.00 C 8.58 6.00 9.59 6.53 10.20 7.41" transform="translate(322 15)" fill="none" stroke="#241A1F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329.5" cy="26.4" r="0.53" fill="#241A1F"/>
+<rect x="347.8" y="19.4" width="12.96" height="7.2" rx="0.9" fill="none" stroke="#241A1F" stroke-width="1.62"/>
+<rect x="348.88" y="20.48" width="7.56" height="5.04" rx="0.36" fill="#241A1F"/>
+<rect x="361.12" y="21.56" width="1.08" height="2.88" rx="0.36" fill="#241A1F"/>
+</g>
+<g id="Quiz-header" data-name="Quiz header">
+<circle cx="42" cy="76" r="20" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<path d="M 11.52 3.60 L 6.48 9.00 L 11.52 14.40" transform="translate(33 67)" fill="none" stroke="#241A1F" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="72" y="78.8">IQ Adventure</tspan></text>
+<rect x="296" y="56" width="74" height="40" rx="20" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="315" cy="75" r="6.48" fill="none" stroke="#FF8310" stroke-width="1.62"/>
+<path d="M 9.00 4.68 L 9.00 9.36 L 12.06 11.16" transform="translate(306 66)" fill="none" stroke="#FF8310" stroke-width="1.62" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="328" y="74.8">00:42</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#6B7280" text-anchor="start"><tspan x="20" y="120.8">Question 3 of 8</tspan></text>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF8310" text-anchor="end"><tspan x="370" y="120.8">38%</tspan></text>
+<rect x="20" y="132" width="350" height="8" rx="4" fill="#FFE3BC"/>
+<rect x="20" y="132" width="133" height="8" rx="4" fill="#FF8310"/>
+<g id="Question-card" data-name="Question card">
+<rect x="20" y="160" width="350" height="260" rx="24" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#FF8310" text-anchor="start" letter-spacing="1.4"><tspan x="40" y="190">PATTERN</tspan></text>
+<text font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#241A1F" text-anchor="start"><tspan x="40" y="222">Which shape comes next?</tspan></text>
+</g>
+<g id="Sequence" data-name="Sequence">
+<circle cx="85" cy="300" r="25" fill="#D8E9FC"/>
+<rect x="140" y="275" width="50" height="50" rx="10" fill="#FFDB99"/>
+<polygon points="225,273 251,323 199,323" fill="#E6F8F2"/>
+<circle cx="325" cy="300" r="25" fill="#F3F4F6"/>
+<text font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#9AA3AF" text-anchor="middle"><tspan x="325" y="308">?</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#6B7280" text-anchor="start"><tspan x="20" y="446.8">Choose one answer</tspan></text>
+<g id="Answer-A" data-name="Answer A">
+<rect x="20" y="462" width="165" height="64" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="44" cy="494" r="14" fill="#F3F4F6"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#6B7280" text-anchor="middle"><tspan x="44" y="495.8">A</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="68" y="495.6">Circle</tspan></text>
+<circle cx="160" cy="494" r="13" fill="#286CB5"/>
+</g>
+<g id="Answer-B" data-name="Answer B">
+<rect x="205" y="462" width="165" height="64" rx="16" fill="#FFF8EE" stroke="#FF8310" stroke-width="2"/>
+<circle cx="229" cy="494" r="14" fill="#FFF3E2"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#FF8310" text-anchor="middle"><tspan x="229" y="495.8">B</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="253" y="495.6">Square</tspan></text>
+<rect x="332" y="481" width="26" height="26" rx="4" fill="#FF8310"/>
+<circle cx="351" cy="474" r="8" fill="#FF8310"/>
+<path d="M 1.44 4.24 L 3.20 6.00 L 6.56 2.16" transform="translate(347 470)" fill="none" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Answer-C" data-name="Answer C">
+<rect x="20" y="536" width="165" height="64" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="44" cy="568" r="14" fill="#F3F4F6"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#6B7280" text-anchor="middle"><tspan x="44" y="569.8">C</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="68" y="569.6">Triangle</tspan></text>
+<polygon points="160,554 174,582 146,582" fill="#2DC197"/>
+</g>
+<g id="Answer-D" data-name="Answer D">
+<rect x="205" y="536" width="165" height="64" rx="16" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<circle cx="229" cy="568" r="14" fill="#F3F4F6"/>
+<text font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#6B7280" text-anchor="middle"><tspan x="229" y="569.8">D</tspan></text>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="253" y="569.6">Diamond</tspan></text>
+<polygon points="345,554 359,568 345,582 331,568" fill="#8A38F5"/>
+</g>
+<g id="Hint-card" data-name="Hint card">
+<rect x="20" y="620" width="350" height="70" rx="18" fill="#FFF3E2"/>
+<circle cx="56" cy="631.92" r="2.16" fill="#FF8310"/>
+<path d="M 0 0 L 0 2.64" transform="translate(56 634.08)" fill="none" stroke="#241A1F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="41.12" y="636.72" width="29.76" height="20.16" rx="7.68" fill="#FFFFFF" stroke="#241A1F" stroke-width="1.5"/>
+<rect x="44" y="639.6" width="24" height="14.4" rx="5.28" fill="#EAF4FF"/>
+<circle cx="50.72" cy="645.36" r="2.16" fill="#241A1F"/>
+<circle cx="61.28" cy="645.36" r="2.16" fill="#241A1F"/>
+<circle cx="51.3" cy="644.78" r="0.58" fill="#FFFFFF"/>
+<circle cx="61.86" cy="644.78" r="0.58" fill="#FFFFFF"/>
+<path d="M 0 0 Q 3.36 2.88 6.72 0" transform="translate(52.64 649.68)" fill="none" stroke="#241A1F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="44" y="657.84" width="24" height="13.44" rx="4.8" fill="#FF8310"/>
+<rect x="50.24" y="660.72" width="11.52" height="7.68" rx="3.36" fill="#FFFFFF" opacity="0.9"/>
+<circle cx="56" cy="664.56" r="1.68" fill="#FF8310"/>
+<rect x="39.68" y="658.8" width="4.32" height="9.6" rx="2.16" fill="#FF8310"/>
+<rect x="68" y="658.8" width="4.32" height="9.6" rx="2.16" fill="#FF8310"/>
+<rect x="46.4" y="671.28" width="7.68" height="3.84" rx="1.92" fill="#241A1F"/>
+<rect x="57.92" y="671.28" width="7.68" height="3.84" rx="1.92" fill="#241A1F"/>
+<text font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#241A1F" text-anchor="start"><tspan x="92" y="641.6">Look for the repeating pattern.</tspan></text>
+<text font-family="Inter, sans-serif" font-size="10.5" font-weight="500" fill="#6B7280" text-anchor="start"><tspan x="92" y="662.4">Circle → square → triangle → ?</tspan></text>
+</g>
+<g id="Button" data-name="Button">
+<rect x="20" y="706" width="350" height="52" rx="18" fill="#FF8310"/>
+<text font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="195" y="734.45">Next question</tspan></text>
+</g>
+<text font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#6B7280" text-anchor="middle"><tspan x="195" y="778">No timer pressure — take your time.</tspan></text>
+</svg>
